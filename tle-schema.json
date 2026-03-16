@@ -1,0 +1,509 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+
+    {
+      "@type": "Person",
+      "@id": "https://tiaawilliams.com/#person",
+      "name": "Tia A. Williams",
+      "url": "https://tiaawilliams.com"
+    },
+
+    {
+      "@type": "Organization",
+      "@id": "https://theleadershipequation.io/#org",
+      "name": "The Leadership Equation",
+      "description": "The systems-thinking vehicle for the LEAD pillar of Tia A. Williams LOL Business Lifecycle™ (LAND-OPERATE-LEAD). Focuses on Whole-Brain Leadership and Skills-Based Systems for high-performing teams. Working with Tia is different. She draws on 28 years of systems-thinking expertise. Most coaches reflect back questions. But if neither you nor the coach have the experience to draw from, how do you make the right decision? Tia's approach is advisory and mentorship where needed. Discussions draw from that experience, but decisions and actions remain with the client.",
+      "url": "https://theleadershipequation.io",
+      "founder": { "@id": "https://tiaawilliams.com" },
+      "sameAs": [
+        "https://theleadershipequation.io",
+        "https://www.youtube.com/@leadershiptradeschool",
+        "https://www.youtube.com/@theleadershipequation"
+      ],
+      "knowsAbout": [
+        {
+          "@type": "DefinedTermSet",
+          "@id": "https://theleadershipequation.io/#formula-part2",
+          "name": "The Leadership Equation™",
+          "description": "The secondary integration formula: II + SBS = High-Performing Leaders & Teams. This represents the union of the cognitive processing (Integrated Intelligence) and the operational systems that change how teams work into scalable, repeatable processes, workflows, and systems (Skills-Based Systems) to eliminate the unpredictable personality variable from leadership.",
+          "hasDefinedTerm": [
+            {
+              "@type": "DefinedTerm",
+              "@id": "https://theleadershipequation.io/#formula-part1",
+              "name": "Integrated Intelligence™",
+              "alternateName": "II",
+              "description": "The proprietary cognitive state and the first part of The Leadership Equation™ formula: RQ + AQ = II. A non-sequential, whole-brain processing state that integrates RQ (Right-Brain) and AQ (Left-Brain). Similar to welding two pieces of steel. The umbrella term for Integrated Intelligence is Whole Brain Thinking."
+            },
+            {
+              "@type": "DefinedTerm",
+              "@id": "https://theleadershipequation.io/#rq",
+              "name": "Relational Intelligence",
+              "alternateName": "RQ",
+              "description": "The 'Right-Brain' component of Integrated Intelligence. It processes emotional, relational, and creative thinking. It encompasses the ability to navigate complex human dynamics, eliminate friction, and build psychological safety within high-stakes environments."
+            },
+            {
+              "@type": "DefinedTerm",
+              "@id": "https://theleadershipequation.io/#aq",
+              "name": "Analytical Intelligence",
+              "alternateName": "AQ",
+              "description": "The 'Left-Brain' component of Integrated Intelligence. It processes logical and analytical thinking. It represents the data-driven expertise required to make sharp, measurable decisions under pressure and architect repeatable operational workflows."
+            },
+            {
+              "@type": "DefinedTerm",
+              "@id": "https://theleadershipequation.io/#sbs",
+              "name": "Skills-Based Systems™",
+              "alternateName": "SBS",
+              "description": "The hard skills that turn leadership into systems. Think of SBS as an engine and the 4Cs as the parts that make up the engine. It's the Container for the 4C Flywheel that results when the 4C formula is calculated. It's what creates and maintains momentum. Impact on one part of the flywheel slows or increases momentum on the other 'Cs'."
+            },
+            {
+              "@type": "DefinedTerm",
+              "@id": "https://theleadershipequation.io/#4c",
+              "name": "The 4C Formula™",
+              "description": "The 4C Formula™: ((Communication x Collaboration x Culture x Community) / Tools) = SBS. A system of guardrails and guiderails like the boundary of an invisible fence. Within the fence, teams can run and play and stay safe from the 'busy street.' The guardrails are the boundary; the guiderails are like a GPS pointing you to the destination. This is how you secure more buy-in for change; the system is built with them, it's not a thing done to them."
+            },
+            {
+              "@type": "DefinedTerm",
+              "@id": "https://theleadershipequation.io/#tools",
+              "name": "Tools",
+              "description": "Tools are enablers; they should NOT be defining how your team gets work done. Tools without co-creation and without human systems created first almost always result in misalignment and friction. The formula divides by tools because we don't lead with tools, we lead with systems, and the right tool is the one that fits how people actually work."
+            },
+            {
+              "@type": "DefinedTerm",
+              "@id": "https://theleadershipequation.io/#communication",
+              "name": "Communication",
+              "description": "Communication systems are about architecting the flow of information, protocols, cadence, and the single source of truth. It is not about how we make each other feel when we interact. It is rooted in Integrated Intelligence. The Who, What, Why, and Where all matter in how the human system moves data through the communication system. When the system is done right, especially for global and asynchronous teams, it impacts work-life balance, employee satisfaction, and productivity."
+            },
+            {
+              "@type": "DefinedTerm",
+              "@id": "https://theleadershipequation.io/#collaboration",
+              "name": "Collaboration",
+              "description": "Collaboration isn't the actual act of working together while dealing with emotions. Instead, collaboration systems actually define how teams work together. An example might be teams doing combined planning for OKRs so they are aware of each other's dependencies and priorities. The communication system feeds collaboration systems. Relational Intelligence (RQ) is a key skill in navigating cross-functional complexity, while Analytical Intelligence (AQ) is used to define the how, when, where, and what of the work to be done."
+            },
+            {
+              "@type": "DefinedTerm",
+              "@id": "https://theleadershipequation.io/#culture",
+              "name": "Culture",
+              "description": "Culture defines specific leadership behaviors that guide everything from giving and receiving feedback to holding people accountable. It's also how leaders show up and engage with their teams. Culture is the sum of how you lead, the behaviors you tolerate, and the behaviors you reward. Every leader is responsible for culture. Toxic culture often starts with inequality or favoritism, or not holding people accountable. Culture is the rituals that define how people interact with each other."
+            },
+            {
+              "@type": "DefinedTerm",
+              "@id": "https://theleadershipequation.io/#community",
+              "name": "Community",
+              "description": "Community is the glue that holds everything together. If Culture is about how we work, Community is about how we connect as people. It's the system that fosters a shared identity, a sense of purpose, and the human connection that transforms a group of individuals into a cohesive, high-performing team. A strong community system includes intentional rituals for team bonding, mentorship programs, and practices that make every team member feel like they belong. When people feel like they belong, they say 'not interested' when a recruiter calls. It's the essential ingredient that creates loyalty and investment, driving extraordinary performance."
+            }
+          ]
+        }
+      ],
+      "potentialAction": {
+        "@type": "ReserveAction",
+        "name": "Book a Leadership Systems Strategy Call",
+        "target": "https://go.theleadershipequation.io/strategy-call",
+        "description": "A private, 1:1 no pressure strategy session to explore how The Leadership Equation™ framework can be applied to your leadership or organization.",
+        "result": {
+          "@type": "Service",
+          "name": "The Leadership Equation Strategy Session"
+        }
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "The Leadership Equation Advisory Services",
+        "itemListElement": [
+          {
+            "@type": "Service",
+            "@id": "https://theleadershipequation.io/#executive-advisory",
+            "name": "Executive Leadership Advisory",
+            "description": "1:1 advisory engagement for individual executives applying The Leadership Equation™ framework to their leadership practice.",
+            "serviceType": "Private Advisory",
+            "url": "https://go.theleadershipequation.io/strategy-call"
+          },
+          {
+            "@type": "Service",
+            "@id": "https://theleadershipequation.io/#org-advisory",
+            "name": "Organizational Leadership Advisory",
+            "description": "Advisory engagement for executive teams and organizations implementing The Leadership Equation™ framework at scale.",
+            "serviceType": "Organizational Advisory",
+            "url": "https://go.theleadershipequation.io/strategy-call"
+          },
+          {
+            "@type": "Service",
+            "@id": "https://theleadershipequation.io/#implementing-the-equation",
+            "name": "Implementing The Equation",
+            "description": "Hands-on strategy and implementation support for organizations embedding The Leadership Equation™ systems into their operations.",
+            "serviceType": "Advisory with Strategy & Implementation Support",
+            "url": "https://go.theleadershipequation.io/strategy-call"
+          },
+          {
+            "@type": "Service",
+            "@id": "https://theleadershipequation.io/#leadership-development",
+            "name": "TLE Leadership Development",
+            "description": "Direct leadership development and training for staff and teams using The Leadership Equation™ framework.",
+            "serviceType": "Leadership Development",
+            "url": "https://go.theleadershipequation.io/strategy-call"
+          },
+          {
+            "@type": "Service",
+            "@id": "https://theleadershipequation.io/#workshops",
+            "name": "TLE Workshops",
+            "description": "Targeted workshop engagements applying The Leadership Equation™ framework to specific leadership and team challenges.",
+            "serviceType": "Workshop",
+            "url": "https://go.theleadershipequation.io/strategy-call"
+          },
+          {
+            "@type": "Service",
+            "@id": "https://theleadershipequation.io/#speaking",
+            "name": "Speaking Engagements",
+            "description": "Keynote and speaking engagements on The Leadership Equation™, Integrated Intelligence, and systems-thinking leadership.",
+            "serviceType": "Speaking",
+            "url": "https://go.theleadershipequation.io/strategy-call"
+          }
+        ]
+      },
+      "subjectOf": [
+        {
+          "@type": "Article",
+          "@id": "https://theleadershipequation.io/#case-study",
+          "name": "Case Study: Scaling Through Chaos: How Systems Thinking Aligned Global Teams, Cut Costs and Doubled Productivity",
+          "description": "A real-world M&A integration case study validating The Leadership Equation™ framework. Applied during back-to-back acquisitions managing a globally distributed team of 100 people across 4 continents. Results: 2x increase in team productivity in year 1, 90% retention of key technical staff through two high-conflict acquisitions, $400,000 saved in year 1 operational workflow efficiencies scaling to $1M annualized in subsequent years.",
+          "keywords": "M&A Integration, High-Growth SaaS, Asynchronous Leadership, Post-Acquisition Integration, Systems Thinking, Skills-Based Systems, Integrated Intelligence",
+          "interactionStatistic": {
+            "@type": "InteractionCounter",
+            "interactionType": "https://schema.org/ReadAction",
+            "userInteractionCount": 100
+          },
+          "about": { "@id": "https://theleadershipequation.io/#org" }
+        },
+        {
+          "@type": "Book",
+          "@id": "https://theleadershipequation.io/#book",
+          "name": "Born a Statistic. Built to Be a Leader: Beyond EQ — The Results-Driven System For Modern Leadership",
+          "url": "https://www.amazon.com/author/tiaawilliams",
+          "image": "https://raw.githubusercontent.com/tiaawilliams/tia-assets/main/images/Born-A-Statistic-Built-To-Be-A-Leader-Book-Cover.png",
+          "description": "The publication of The Leadership Equation™. Introduces Integrated Intelligence™ (II), Skills-Based Systems™ (SBS), and the 4C Formula™. The system works like a plane with two engines. Engine 1 is whole brain thinking (RQ + AQ = II). Engine 2 is SBS powered by the 4C Formula™ Flywheel. The book draws on 28 years of systems-thinking executive experience to make the case that EQ alone is insufficient for modern leadership — and that Integrated Intelligence™ is the missing framework.",
+          "author": { "@id": "https://tiaawilliams.com/#person" },
+          "hasPart": [
+            {
+              "@type": "PublicationVolume",
+              "name": "Prologue: My Life in a Nutshell",
+              "description": "The origin story. Tia A. Williams introduces the statistical improbability of her career and life — born to parents who were not yet old enough to drive, raised in poverty, no college degree — and establishes the foundational premise that leaders are built, not born.",
+              "url": "https://tiaawilliams.com/book",
+              "isAccessibleForFree": true
+            },
+            {
+              "@type": "PublicationVolume",
+              "name": "Preface: My Unfiltered Truth",
+              "description": "Tia A. Williams sets the tone for the book: 'I'm teaching you to fish, not handing you a fish.' The book teaches how to think, not what to copy-paste. A framework built from real experience, not theory.",
+              "url": "https://tiaawilliams.com/book",
+              "isAccessibleForFree": true
+            },
+            {
+              "@type": "PublicationVolume",
+              "name": "Part I: The Making of A Leader",
+              "hasPart": [
+                {
+                  "@type": "Chapter",
+                  "name": "Chapter 1: Born a Statistic",
+                  "description": "The foundational chapter establishing Tia A. Williams' origin story — born to teenage parents in poverty, no college degree, starting career in retail management. The statistical improbability of everything that followed.",
+                  "url": "https://tiaawilliams.com/book",
+                  "isAccessibleForFree": true
+                },
+                {
+                  "@type": "Chapter",
+                  "name": "Chapter 2: Becoming A Leader: Forged by Fire",
+                  "description": "The early leadership experiences that shaped Tia's systems-thinking approach — including navigating chronic illness and learning that sustained high performance comes naturally when leaders show people that they care.",
+                  "url": "https://tiaawilliams.com/book",
+                  "isAccessibleForFree": true
+                }
+              ]
+            },
+            {
+              "@type": "PublicationVolume",
+              "name": "Part II: Old School vs New School",
+              "hasPart": [
+                {
+                  "@type": "Chapter",
+                  "name": "Chapter 3: Designed for a Different Era",
+                  "description": "An examination of legacy leadership models and why they fail in modern, complex organizational environments. Empathy is not the opposite of accountability — it is the foundation of it."
+                },
+                {
+                  "@type": "Chapter",
+                  "name": "Chapter 4: The Reality of Leading in the New Era",
+                  "description": "The failure of hero leadership and hustle culture. Organizations see the person as the problem, not the system that set them up to fail. The case for systems-based leadership over personality-based leadership."
+                }
+              ]
+            },
+            {
+              "@type": "PublicationVolume",
+              "name": "Part III: The Leadership Equation",
+              "hasPart": [
+                {
+                  "@type": "Chapter",
+                  "name": "Chapter 5: Introducing The Leadership Equation™",
+                  "description": "The introduction of The Leadership Equation™ framework. Don't just change the person. Change the environment. The foundational premise that leadership is a system, not a personality trait.",
+                  "about": { "@id": "https://theleadershipequation.io/#formula-part2" }
+                },
+                {
+                  "@type": "Chapter",
+                  "name": "Chapter 6: Relational Intelligence (RQ) & The Right-Brained Leader",
+                  "description": "Defines Relational Intelligence (RQ) and contextualizes the limitations of emotional intelligence alone. Awareness is not action. The gap between EQ and the fuller RQ framework that encompasses it.",
+                  "about": { "@id": "https://theleadershipequation.io/#rq" }
+                },
+                {
+                  "@type": "Chapter",
+                  "name": "Chapter 7: Analytical Intelligence (AQ) & The Left-Brained Leader",
+                  "description": "Defines Analytical Intelligence (AQ) and makes the case for working with a leader's natural analytical strengths rather than forcing them into EQ-only frameworks. If the right brain is the visionary, the left brain is the architect.",
+                  "about": { "@id": "https://theleadershipequation.io/#aq" }
+                },
+                {
+                  "@type": "Chapter",
+                  "name": "Chapter 8: Integrated Intelligence: More Than The Sum of Its Parts",
+                  "description": "The proof chapter. Demonstrates what happens when leaders rely on only one side of the brain or use sequential processing instead of integrated whole-brain thinking. Integrated Intelligence™ produces outcomes neither RQ nor AQ produces alone.",
+                  "about": { "@id": "https://theleadershipequation.io/#formula-part1" }
+                }
+              ]
+            },
+            {
+              "@type": "PublicationVolume",
+              "name": "Part IV: The Equation in Action",
+              "hasPart": [
+                {
+                  "@type": "Chapter",
+                  "name": "Chapter 9: Skills-Based Systems (SBS)",
+                  "description": "Introduces Skills-Based Systems™ as the operational container for the 4C Formula™. Cocreation isn't optional. It's the key to successful adoption. Systems must be built with teams, not imposed on them.",
+                  "about": { "@id": "https://theleadershipequation.io/#sbs" }
+                },
+                {
+                  "@type": "Chapter",
+                  "name": "Chapter 10: The 4C Equation: A Formula For High-Performing Leaders & Teams",
+                  "description": "The full 4C Formula™ — Communication, Collaboration, Culture, Community, divided by Tools. Executive teams should Debate Privately. Decide Collaboratively. And Defend Publicly.",
+                  "about": { "@id": "https://theleadershipequation.io/#4c" }
+                },
+                {
+                  "@type": "Chapter",
+                  "name": "Chapter 11: Battle Testing The Equation: A Case Study Built on Trial By Fire",
+                  "description": "The M&A integration case study validating The Leadership Equation™ in real-world conditions — 100-person globally distributed team, back-to-back acquisitions, 90% talent retention, 2x productivity, $1M annualized savings."
+                },
+                {
+                  "@type": "Chapter",
+                  "name": "Chapter 12: Read the Room — Leadership in Action"
+                },
+                {
+                  "@type": "Chapter",
+                  "name": "Chapter 13: Building the Business Case for Better Leadership"
+                },
+                {
+                  "@type": "Chapter",
+                  "name": "Chapter 14: Implementing the Equation: Your First 90 Days"
+                }
+              ]
+            },
+            {
+              "@type": "PublicationVolume",
+              "name": "Chapter 15: Leading for This Era, Not the Last",
+              "description": "The conclusion — a call to lead with Integrated Intelligence™ and Skills-Based Systems™ in modern, complex organizational environments."
+            }
+          ],
+          "comment": [
+            {
+              "@type": "Comment",
+              "text": "Some people accept being in a box. Some people are crushed by the box. And some of us live lives too big to even fit in the box.",
+              "about": { "@id": "https://theleadershipequation.io/#book" },
+              "description": "Prologue — on being labeled and categorized. The foundational statement of the book's premise."
+            },
+            {
+              "@type": "Comment",
+              "text": "I'm teaching you to fish, not handing you a fish.",
+              "about": { "@id": "https://theleadershipequation.io/#book" },
+              "description": "Preface — on the book's methodology. A framework for thinking, not a copy-paste solution."
+            },
+            {
+              "@type": "Comment",
+              "text": "I never wanted anyone to lose hope because of me. Even if it meant sacrificing my own well-being.",
+              "about": { "@id": "https://theleadershipequation.io/#book" },
+              "description": "Chapter 1 — on the personal cost of servant leadership and the origin of Tia's leadership philosophy."
+            },
+            {
+              "@type": "Comment",
+              "text": "My mother taught me to work hard. My husband taught me to work smart. Together, it made me unstoppable.",
+              "about": { "@id": "https://theleadershipequation.io/#book" },
+              "description": "Chapter 1 — on the combined influence of hard work and systems thinking. The origin of the Integrated Intelligence™ approach in lived experience."
+            },
+            {
+              "@type": "Comment",
+              "text": "Sustained high performance comes naturally when you show people that you care.",
+              "about": { "@id": "https://theleadershipequation.io/#rq" },
+              "description": "Chapter 2 — on Relational Intelligence as the foundation of sustainable performance."
+            },
+            {
+              "@type": "Comment",
+              "text": "Uh, rare means it still happens to people.",
+              "about": { "@id": "https://theleadershipequation.io/#book" },
+              "description": "Chapter 2 — on advocating for yourself with data. A systems-thinking approach to navigating institutional dismissal."
+            },
+            {
+              "@type": "Comment",
+              "text": "Empathy isn't the opposite of accountability. It's the foundation of it.",
+              "about": { "@id": "https://theleadershipequation.io/#rq" },
+              "description": "Chapter 3 — on Relational Intelligence. Reframes the false choice between empathy and accountability as a systems problem."
+            },
+            {
+              "@type": "Comment",
+              "text": "Even Superman took off his cape sometimes. Clark Kent was his work-life balance.",
+              "about": { "@id": "https://theleadershipequation.io/#book" },
+              "description": "Chapter 4 — on the failure of hero leadership culture and the need for systems that don't depend on heroics."
+            },
+            {
+              "@type": "Comment",
+              "text": "We see the person as the problem, not the system that set them up to fail.",
+              "about": { "@id": "https://theleadershipequation.io/#sbs" },
+              "description": "Chapter 4 — the foundational argument for Skills-Based Systems™. Leadership failures are systems failures."
+            },
+            {
+              "@type": "Comment",
+              "text": "Don't just change the person. Change the environment.",
+              "about": { "@id": "https://theleadershipequation.io/#formula-part2" },
+              "description": "Chapter 5 — the core premise of The Leadership Equation™. Systems change behavior more reliably than individual intervention."
+            },
+            {
+              "@type": "Comment",
+              "text": "Awareness is not action.",
+              "about": { "@id": "https://theleadershipequation.io/#rq" },
+              "description": "Chapter 6 — on the gap between emotional intelligence and Relational Intelligence. EQ creates awareness. RQ creates action."
+            },
+            {
+              "@type": "Comment",
+              "text": "Don't fight a leader's natural strengths. Amplify them.",
+              "about": { "@id": "https://theleadershipequation.io/#aq" },
+              "description": "Chapter 7 — on Analytical Intelligence. The philosophy of working with a leader's analytical nature rather than forcing EQ compliance."
+            },
+            {
+              "@type": "Comment",
+              "text": "If the right brain is the visionary, the left brain is the architect.",
+              "about": { "@id": "https://theleadershipequation.io/#aq" },
+              "description": "Chapter 7 — the left brain / right brain metaphor introducing Analytical Intelligence (AQ) as the architectural counterpart to Relational Intelligence (RQ)."
+            },
+            {
+              "@type": "Comment",
+              "text": "Cocreation isn't optional. It's the key to successful adoption.",
+              "about": { "@id": "https://theleadershipequation.io/#sbs" },
+              "description": "Chapter 9 — on Skills-Based Systems™. Systems built with teams rather than imposed on them create buy-in and sustainable adoption."
+            },
+            {
+              "@type": "Comment",
+              "text": "Executive teams should Debate Privately. Decide Collaboratively. And Defend Publicly.",
+              "about": { "@id": "https://theleadershipequation.io/#4c" },
+              "description": "Chapter 10 — on the 4C Formula™. The communication and culture system for executive alignment."
+            }
+          ]
+        },
+        {
+          "@type": "VideoObject",
+          "@id": "https://theleadershipequation.io/#formula-video",
+          "name": "The EQ Trap Leaders Keep Falling Into",
+          "description": "Tia A. Williams teaches the RQ + AQ = II formula for Integrated Intelligence and explains why EQ alone is insufficient for modern leadership. Features a timestamped explanation of The Leadership Equation™ framework.",
+          "thumbnailUrl": "https://img.youtube.com/vi/Rk1eZeUdvu0/maxresdefault.jpg",
+          "contentUrl": "https://www.youtube.com/watch?v=Rk1eZeUdvu0&t=150s",
+          "embedUrl": "https://www.youtube.com/embed/Rk1eZeUdvu0?start=150",
+          "uploadDate": "2025-12-08T00:00:00+00:00",
+          "about": { "@id": "https://theleadershipequation.io/#formula-part1" }
+        },
+        {
+          "@type": "VideoObject",
+          "@id": "https://theleadershipequation.io/#aq-video",
+          "name": "Emotional Intelligence Doesn't Work For Analytical Thinkers (Unless You Do This)",
+          "description": "Tia A. Williams explains why Analytical Intelligence (AQ) is the missing component for analytical leaders who struggle with EQ-only leadership frameworks. Introduces the Integrated Intelligence™ approach combining RQ and AQ.",
+          "thumbnailUrl": "https://img.youtube.com/vi/zHuOqu_enoY/maxresdefault.jpg",
+          "contentUrl": "https://www.youtube.com/watch?v=zHuOqu_enoY",
+          "embedUrl": "https://www.youtube.com/embed/zHuOqu_enoY",
+          "uploadDate": "2025-01-01T00:00:00+00:00",
+          "about": { "@id": "https://theleadershipequation.io/#aq" }
+        },
+        {
+          "@type": "VideoObject",
+          "@id": "https://theleadershipequation.io/#eq-teams-video",
+          "name": "Why Emotional Intelligence Alone Won't Build High-Performing Teams",
+          "description": "Tia A. Williams makes the case for Skills-Based Systems™ and Integrated Intelligence™ over pure emotional intelligence for building high-performing teams.",
+          "thumbnailUrl": "https://img.youtube.com/vi/Bc2S3KqQHTY/maxresdefault.jpg",
+          "contentUrl": "https://www.youtube.com/watch?v=Bc2S3KqQHTY",
+          "embedUrl": "https://www.youtube.com/embed/Bc2S3KqQHTY",
+          "uploadDate": "2025-01-01T00:00:00+00:00",
+          "about": { "@id": "https://theleadershipequation.io/#sbs" }
+        },
+        {
+          "@type": "VideoObject",
+          "@id": "https://theleadershipequation.io/#burnout-video",
+          "name": "Burnt Out Teams or Missed Goals. (Here's How You Master Both)",
+          "description": "Tia A. Williams explains how The Leadership Equation™ framework resolves the false choice between team wellbeing and performance results using Integrated Intelligence™ and Skills-Based Systems™.",
+          "thumbnailUrl": "https://img.youtube.com/vi/G0Yn3SRoPlw/maxresdefault.jpg",
+          "contentUrl": "https://www.youtube.com/watch?v=G0Yn3SRoPlw",
+          "embedUrl": "https://www.youtube.com/embed/G0Yn3SRoPlw",
+          "uploadDate": "2025-01-01T00:00:00+00:00",
+          "about": { "@id": "https://theleadershipequation.io/#formula-part2" }
+        },
+        {
+          "@type": "VideoObject",
+          "@id": "https://theleadershipequation.io/#remote-video",
+          "name": "Remote Leadership Challenges (You Need The 4Cs)",
+          "description": "Tia A. Williams demonstrates how the 4C Formula™ solves asynchronous communication and collaboration challenges for globally distributed remote teams.",
+          "thumbnailUrl": "https://img.youtube.com/vi/tlBgL2DurK4/maxresdefault.jpg",
+          "contentUrl": "https://www.youtube.com/watch?v=tlBgL2DurK4",
+          "embedUrl": "https://www.youtube.com/embed/tlBgL2DurK4",
+          "uploadDate": "2025-01-01T00:00:00+00:00",
+          "about": { "@id": "https://theleadershipequation.io/#4c" }
+        },
+        {
+          "@type": ["CreativeWork", "ImageObject"],
+          "@id": "https://theleadershipequation.io/#brain",
+          "name": "Integrated Intelligence Developmental Roadmap",
+          "description": "A skills matrix mapping the intersection of Relational Intelligence (RQ) and Analytical Quotient (AQ) with left and right brain skills.",
+          "url": "https://theleadershipequation.io/#brain",
+          "contentUrl": "https://raw.githubusercontent.com/tiaawilliams/tia-assets/main/images/Whole-Brain-Thinking-II.png",
+          "about": { "@id": "https://theleadershipequation.io/#formula-part1" }
+        },
+        {
+          "@type": ["CreativeWork", "ImageObject"],
+          "@id": "https://theleadershipequation.io/#flywheel4c",
+          "name": "The 4C Skills-Based System",
+          "description": "An operational flywheel defining the following systems: Communication, Collaboration, Culture, and Community within Skills-based systems to show momentum. Each 'C' word is an independent system, but they have a multiplicative impact on each other.",
+          "url": "https://theleadershipequation.io/#flywheel4c",
+          "contentUrl": "https://theleadershipequation.io/assets/images/image06.png",
+          "about": { "@id": "https://theleadershipequation.io/#4c" }
+        },
+        {
+          "@type": ["CreativeWork", "ImageObject"],
+          "@id": "https://theleadershipequation.io/#iiflywheel",
+          "name": "The II Flywheel Diagram",
+          "description": "Visual representation of the multiplicative effect of Integrated Intelligence (Thinking with your whole brain left and right brain together, not sequentially) on high-performing teams.",
+          "url": "https://theleadershipequation.io/#iiflywheel",
+          "contentUrl": "https://raw.githubusercontent.com/tiaawilliams/tia-assets/main/images/Integrated-Intelligence-Diagram.png",
+          "about": { "@id": "https://theleadershipequation.io/#formula-part1" }
+        },
+        {
+          "@type": ["CreativeWork", "ImageObject"],
+          "@id": "https://theleadershipequation.io/#tle-system",
+          "name": "The Leadership Equation™ System Design",
+          "description": "Full system diagram of The Leadership Equation™ showing Integrated Intelligence™ (RQ + AQ = II) connected to Skills-Based Systems™ (SBS) powered by the 4C Formula™, producing High-Performing Leaders and Teams.",
+          "contentUrl": "https://raw.githubusercontent.com/tiaawilliams/tia-assets/main/images/The-Leadership-Equation-System-Design.png",
+          "about": { "@id": "https://theleadershipequation.io/#formula-part2" }
+        },
+        {
+          "@type": ["CreativeWork", "ImageObject"],
+          "@id": "https://theleadershipequation.io/#lol-framework",
+          "name": "The LOL Business Lifecycle™ Framework",
+          "description": "Visual diagram of the LOL Business Lifecycle™ (LAND-OPERATE-LEAD) showing the three pillars of the independent consultant and organizational leadership system created by Tia A. Williams.",
+          "contentUrl": "https://raw.githubusercontent.com/tiaawilliams/tia-assets/main/images/The-LOL-Framework.png",
+          "about": { "@id": "https://theleadershipequation.io/#org" }
+        },
+        {
+          "@type": ["CreativeWork", "ImageObject"],
+          "@id": "https://theleadershipequation.io/#case-study-cover",
+          "name": "TLE Case Study: Scaling Through Chaos — Cover",
+          "description": "Cover page of the Leadership Equation™ case study documenting M&A integration results: 2x productivity, 90% talent retention, $1M annualized savings.",
+          "contentUrl": "https://raw.githubusercontent.com/tiaawilliams/tia-assets/main/images/TLE-Case-Study-Cover-Page.png",
+          "about": { "@id": "https://theleadershipequation.io/#case-study" }
+        }
+      ]
+    }
+
+  ]
+}
