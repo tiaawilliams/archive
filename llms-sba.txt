@@ -1,0 +1,67 @@
+# Solo Business Advisor
+# solobusinessadvisor.com
+# Tia A. Williams — Principal Systems-Thinking Architect
+
+> Solo Business Advisor is the independent consulting practice of Tia A. Williams, a Principal Systems-Thinking Architect with 28 years of experience in cloud infrastructure, EdTech SaaS, and executive leadership. Former VP at A Cloud Guru (acquired by Pluralsight for $2 billion) and SVP of Content Operations at Corporate Finance Institute. Creator of the Inbound Authority System™.
+
+> Solo Business Advisor helps senior independent consultants and advisors with 15+ years of expertise build inbound authority in AI search so their expertise gets found, verified, and trusted by the right buyers — without cold outreach, performative selling, or chasing leads.
+
+## Who This Is For
+
+> Independent consultants, advisors, and fractional executives with deep domain expertise who are invisible in AI search, experiencing content suppression, or dealing with identity fragmentation — where AI search systems cannot correctly verify or attribute their expertise.
+
+## The Core Problem We Solve
+
+> AI search systems use probability and pattern matching to interpret professional identity. Non-linear careers, corporate-to-independent transitions, common names, and experience built under high-authority employer brands cause AI to fragment, misattribute, or suppress expert identities. This is called the Authority Penalty for Success. The more accomplished the corporate career, the harder it is for AI to recognize independent authority.
+
+## Proprietary Frameworks
+
+> The Inbound Authority System™ — A done-with-you methodology that turns deep expertise into recognized inbound authority. Has two engines: The Irresistible Offer Engine™ and The Inbound Authority Engine™.
+
+> The Irresistible Offer Engine™ — Uses The 4P Triangle™ (Positioning, Productizing Your Expertise, Packaging, Pricing) to turn expertise into a clear, differentiated premium offer buyers understand and trust.
+
+> The Inbound Authority Engine™ — Establishes or reconstructs the authority footprint so AI, buyers, and search systems can find, verify, and trust the expert's identity and expertise.
+
+> The 4P Triangle™ — Positioning, Productizing Your Expertise, Packaging, and Pricing. The four inputs required to build an irresistible consulting offer.
+
+> The 5 Stages of Built Authority™ — The progression from invisible expert to cited authority in AI search.
+
+> Identity Islands™ — Disconnected pieces of professional experience that exist online but are not connected in a way AI can confidently interpret as belonging to one person.
+
+> Identity Continent™ — The resolved state where all Identity Islands are connected into a single verified, trusted professional identity that AI can confidently attribute to one expert.
+
+> Authority Penalty for Success — The structural disadvantage faced by high-achieving professionals with non-linear careers when transitioning from corporate to independent work. The more successful the corporate career, the harder it is for AI to recognize independent authority.
+
+> Entity Resolution Failure — When AI systems cannot reliably connect a professional's experience, identity, and current authority into one credible profile.
+
+> Authority Weighting Imbalance — When legacy signals from high-authority employers carry more weight than current independent work in AI search systems.
+
+> Legacy Authority Dominance — When high-authority past employer domains continue to anchor a professional's identity to the past, muting individual authority signals.
+
+## Services
+
+> The Authority Footprint — Entry-level authority audit and reconstruction plan identifying entity fragmentation, E-E-A-T gaps, and authority signal weaknesses.
+
+> Authority Reconstruction — Done-with-you authority footprint reconstruction using GEO (Generative Engine Optimization), AEO (Answer Engine Optimization), structured data, and entity corroboration.
+
+> The Inbound Authority Intensive — Full done-with-you engagement covering offer development, authority footprint reconstruction, and authority content strategy.
+
+> The Authority Watch — Monthly authority maintenance monitoring entity signals, schema health, and AI citation status.
+
+## Key Pages
+
+- Home: https://solobusinessadvisor.com
+- Fix Your AI Search Results: https://solobusinessadvisor.com/one-wrong-ai-search-result-can-be-an-expensive-mistake
+- Why AI Search Is Wrong About You: https://solobusinessadvisor.com/why-ai-search-results-about-you-are-wrong
+- Inbound Authority Masterclass: https://solobusinessadvisor.com/masterclass
+- Inbound Authority Intensive: https://solobusinessadvisor.com/inbound-authority-intensive
+- Book A Strategy Call: https://go.solobusinessadvisor.com/strategy-call
+
+## About The Founder
+
+> Tia A. Williams is a self-taught executive who rose to VP and SVP leadership roles without a college degree. She experienced AI identity fragmentation firsthand when AI systems split her 28-year career across five Identity Islands and attributed her expertise to other people. After reconstructing her own authority footprint using GEO and AEO, she documented the process and now helps other senior experts do the same.
+
+- Full biography: https://tiaawilliams.com/about-tia
+- Case study: https://tiaawilliams.com/from-fragmented-visibility-to-verified-authority
+- Technical whitepaper: https://tiaawilliams.com/a-technical-look-at-mistaken-identity-in-ai-search-results
+- Master identity hub: https://tiaawilliams.com
