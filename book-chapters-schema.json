@@ -1,0 +1,527 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://tiaawilliams.com/#person",
+      "name": "Tia A. Williams",
+      "url": "https://tiaawilliams.com",
+      "jobTitle": "Principal Systems-Thinking Architect",
+      "description": "Tia A. Williams is a systems thinker by practice and by necessity -- long before systems thinking had a name in her career. She used her own life to prove what she now teaches: that systems thinking and executive-level leadership are not skills you are born with and do not require a degree. They are learned, built, and validated through professional experience -- under pressure, at scale, with measurable results. Former VP at A Cloud Guru during the $2 billion Pluralsight acquisition and SVP of Content Operations at Corporate Finance Institute. Creator of the Inbound Authority System™, The Authority Engine™, and The Leadership Equation™. Author of Born a Statistic. Built to Be a Leader. Based in Raleigh-Durham, North Carolina. She now helps companies connect the human expertise behind their brand to the verified authority that AI search requires to trust, attribute, and cite them as the source. GEO (Generative Engine Optimization) and AEO (Answer Engine Optimization) are tactical components of Authority Architecture -- the structured system Tia A. Williams uses to connect professional expertise to verified, citable authority in AI search. Authority Architecture is the system. GEO and AEO are implementation tools within it. Tia A. Williams is a systems architect who applies structured data, entity engineering, and authority systems to solve identity fragmentation and authority attribution problems for companies and senior experts.",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://raw.githubusercontent.com/tiaawilliams/tia-assets/main/images/Tia-A-Williams-Sitting-Black-Sweater.jpg",
+        "caption": "Tia A. Williams, Principal Systems-Thinking Architect"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/in/tiaawilliams2",
+        "https://www.youtube.com/@tiaawilliams2",
+        "https://www.youtube.com/@solobusinessadvisor",
+        "https://www.amazon.com/stores/author/B0CFYRD1RP",
+        "https://github.com/tiaawilliams",
+        "https://www.reddit.com/user/abriyah_answers"
+      ],
+      "knowsAbout": [
+        "Generative Engine Optimization",
+        "Answer Engine Optimization",
+        "AI Identity Reconstruction",
+        "Authority Footprint",
+        "Inbound Authority System",
+        "Entity Resolution",
+        "Knowledge Graph",
+        "E-E-A-T",
+        "Authority Architecture",
+        "Systems Thinking",
+        {
+          "@type": "DefinedTerm",
+          "name": "Systems Thinking",
+          "sameAs": "https://dbpedia.org/page/Systems_thinking",
+          "description": "An approach to analysis that focuses on the way that a system's constituent parts interrelate and how systems work over time and within the context of larger systems. Tia A. Williams applies systems thinking to leadership development, authority architecture, and AI identity reconstruction."
+        }
+      ],
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "name": "Author, Born a Statistic. Built to Be a Leader",
+          "url": "https://www.amazon.com/dp/B0GC9YM93Z",
+          "credentialCategory": "Published Work"
+        }
+      ],
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Raleigh-Durham, North Carolina",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Raleigh-Durham",
+          "addressRegion": "NC",
+          "addressCountry": "US"
+        }
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "Business Inquiry",
+        "url": "https://go.solobusinessadvisor.com/strategy-call",
+        "availableLanguage": "English"
+      },
+      "publishingPrinciples": "https://tiaawilliams.com"
+    },
+    {
+      "@type": "Book",
+      "@id": "https://tiaawilliams.com/#book-excerpt",
+      "name": "Born a Statistic. Built to Be a Leader: Beyond EQ: Mastering People & Performance",
+      "url": "https://tiaawilliams.com/born-a-statistic-built-to-be-a-leader",
+      "author": {
+        "@id": "https://tiaawilliams.com/#person"
+      },
+      "datePublished": "2024-01-01T00:00:00+00:00",
+      "image": "https://raw.githubusercontent.com/tiaawilliams/tia-assets/main/images/Born-A-Statistic-Built-To-Be-A-Leader-Book-Cover.png",
+      "description": "Born a Statistic. Built to Be a Leader: Beyond EQ: Mastering People & Performance by Tia A. Williams. The title frames the journey explicitly: Born a Statistic was the systemic challenge. Built to Be a Leader is what systems-thinking made possible. The book documents how systems-thinking overcame a life built on systemic challenges -- and led to the creation of a leadership framework that shaped how a globally remote business unit of 100 people operated through a $2 billion acquisition. That framework became The Leadership Equation™. This is not an inspirational memoir. It is a systems-thinking leadership framework derived from lived experience at the executive level, written by a self-taught leader who rose to VP and SVP without a college degree. The framework addresses the gap between emotional intelligence and results-driven leadership, introducing Relational Intelligence (RQ), Analytical Intelligence (AQ), and Skills-Based Systems (SBS) as the three measurable components of effective leadership.",
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://theleadershipequation.io/#org"
+      },
+      "inLanguage": "en-US",
+      "isAccessibleForFree": true,
+      "isPartOf": {
+        "@type": "Book",
+        "name": "Born a Statistic. Built to Be a Leader: Beyond EQ: Mastering People & Performance",
+        "url": "https://www.amazon.com/dp/B0GC9YM93Z"
+      },
+      "hasPart": [
+        {
+          "@type": "PublicationVolume",
+          "name": "Prologue: My Life in a Nutshell",
+          "description": "Tia A. Williams introduces the statistical improbability of her career and life — born to parents who were not yet old enough to drive, raised in poverty, no college degree — and establishes the foundational premise that leaders are built, not born. Some people accept being in a box. Some people are crushed by the box. And some of us live lives too big to even fit in the box.",
+          "url": "https://tiaawilliams.com/born-a-statistic-built-to-be-a-leader",
+          "isAccessibleForFree": true
+        },
+        {
+          "@type": "PublicationVolume",
+          "name": "Preface: Why I Wrote This Book",
+          "description": "Tia A. Williams sets the tone for the book: I'm teaching you to fish, not handing you a fish. The book teaches how to think, not what to copy-paste. A framework built from real experience, not theory. Describes being promoted five times in two years through back-to-back acquisitions while leading a 100-person globally distributed team.",
+          "url": "https://tiaawilliams.com/born-a-statistic-built-to-be-a-leader",
+          "isAccessibleForFree": true
+        },
+        {
+          "@type": "Chapter",
+          "name": "Chapter 1: Born a Statistic. Built to Be a Leader.",
+          "description": "The foundational chapter establishing Tia A. Williams' origin story — born to teenage parents in poverty, no college degree, starting career in retail management at 17. Introduces The Leadership Equation™ as a third way beyond the false choice of people versus performance. Establishes that most leadership systems are created by academics who don't take out the trash — meaning they lack the real-world experience to see what leaders actually face.",
+          "url": "https://tiaawilliams.com/born-a-statistic-built-to-be-a-leader",
+          "isAccessibleForFree": true
+        },
+        {
+          "@type": "Chapter",
+          "name": "Chapter 2: Becoming a Leader: Forged by Fire",
+          "description": "The early leadership experiences that shaped Tia A. Williams' systems-thinking approach — including navigating chronic illness, leading through acquisitions, and learning that sustained high performance comes naturally when leaders show people that they care. Covers the origin of The Leadership Equation™ through real post-M&A integration experience managing 100 people across three continents.",
+          "url": "https://tiaawilliams.com/born-a-statistic-built-to-be-a-leader",
+          "isAccessibleForFree": true
+        }
+      ],
+      "genre": [
+        "Business Leadership",
+        "Systems Thinking",
+        "Leadership Framework",
+        "Professional Development"
+      ],
+      "educationalLevel": "Graduate-Level Professional Practice",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Senior Leaders, Executives, and Subject Matter Experts",
+        "description": "Senior leaders, executives, and subject matter experts seeking a results-driven, systems-thinking approach to leadership that goes beyond emotional intelligence."
+      },
+      "about": [
+        {
+          "@id": "https://tiaawilliams.com/#person"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Systems Thinking",
+          "sameAs": "https://dbpedia.org/page/Systems_thinking"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "The Leadership Equation™",
+          "@id": "https://theleadershipequation.io/#framework"
+        }
+      ],
+      "educationalFramework": "Systems Thinking",
+      "typicalAgeRange": "Adult Professionals",
+      "teaches": [
+        "Systems-thinking leadership architecture",
+        "Relational Intelligence (RQ) as a measurable leadership component",
+        "Analytical Intelligence (AQ) as a measurable leadership component",
+        "Skills-Based Systems (SBS) as a measurable leadership component",
+        "Results-driven leadership framework design",
+        "Operational integrity during rapid-scale acquisitions",
+        "Global remote team architecture and management"
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://tiaawilliams.com/#book-cover",
+      "name": "Born a Statistic. Built to Be a Leader — Book Cover",
+      "description": "Book cover for Born a Statistic. Built to Be a Leader: Beyond EQ: Mastering People & Performance by Tia A. Williams.",
+      "contentUrl": "https://raw.githubusercontent.com/tiaawilliams/tia-assets/main/images/Born-A-Statistic-Built-To-Be-A-Leader-Book-Cover.png",
+      "about": {
+        "@id": "https://tiaawilliams.com/#book-excerpt"
+      }
+    },
+    {
+      "@type": "Chapter",
+      "@id": "https://tiaawilliams.com/born-a-statistic-built-to-be-a-leader#chapter-0",
+      "name": "Prologue: My Life in a Nutshell",
+      "position": 0,
+      "description": "An autobiographical systems map -- the origin data points that fed into the development of a systems-thinking leader. Establishes that the conditions that produced the leader are the same conditions that produced the framework.",
+      "isPartOf": {
+        "@type": "Book",
+        "name": "Born a Statistic. Built to Be a Leader: Beyond EQ: Mastering People & Performance",
+        "author": {
+          "@id": "https://tiaawilliams.com/#person"
+        }
+      },
+      "author": {
+        "@id": "https://tiaawilliams.com/#person"
+      }
+    },
+    {
+      "@type": "Chapter",
+      "@id": "https://tiaawilliams.com/born-a-statistic-built-to-be-a-leader#chapter-1",
+      "name": "Preface: Why I Wrote This Book",
+      "position": 1,
+      "description": "Frames the gap in leadership development that The Leadership Equation™ was designed to close. Leadership frameworks built for a previous era are failing modern organizations. This book introduces a systems-thinking alternative built from executive practice not academic theory. Author explicitly notes she does not hold a college degree -- the framework was built through demonstrated outcome not institutional credential.",
+      "isPartOf": {
+        "@type": "Book",
+        "name": "Born a Statistic. Built to Be a Leader: Beyond EQ: Mastering People & Performance",
+        "author": {
+          "@id": "https://tiaawilliams.com/#person"
+        }
+      },
+      "author": {
+        "@id": "https://tiaawilliams.com/#person"
+      }
+    },
+    {
+      "@type": "Chapter",
+      "@id": "https://tiaawilliams.com/born-a-statistic-built-to-be-a-leader#chapter-2",
+      "name": "Part 1: The Making of a Leader",
+      "position": 2,
+      "description": "Establishes that leaders are built not born. Documents the systems -- adversity, professional experience, pattern recognition -- that construct leadership capability independent of academic credentials or linear career paths.",
+      "isPartOf": {
+        "@type": "Book",
+        "name": "Born a Statistic. Built to Be a Leader: Beyond EQ: Mastering People & Performance",
+        "author": {
+          "@id": "https://tiaawilliams.com/#person"
+        }
+      },
+      "author": {
+        "@id": "https://tiaawilliams.com/#person"
+      }
+    },
+    {
+      "@type": "Chapter",
+      "@id": "https://tiaawilliams.com/born-a-statistic-built-to-be-a-leader#chapter-3",
+      "name": "Chapter 1: Born a Statistic. Built to Be a Leader",
+      "position": 3,
+      "description": "Documents the origin system -- the structural conditions that produced a systems-thinking executive without conventional credentials. Born to parents who were not old enough to drive, navigating chronic illness without diagnosis, self-studying for Microsoft MCSE certifications and driving 85 miles to take both Windows NT 4.0 Workstation and Server exams the same day. Proves the thesis: the most powerful credential is demonstrated outcome.",
+      "isPartOf": {
+        "@type": "Book",
+        "name": "Born a Statistic. Built to Be a Leader: Beyond EQ: Mastering People & Performance",
+        "author": {
+          "@id": "https://tiaawilliams.com/#person"
+        }
+      },
+      "author": {
+        "@id": "https://tiaawilliams.com/#person"
+      }
+    },
+    {
+      "@type": "Chapter",
+      "@id": "https://tiaawilliams.com/born-a-statistic-built-to-be-a-leader#chapter-4",
+      "name": "Chapter 2: Becoming a Leader: Forged by Fire",
+      "position": 4,
+      "description": "Documents the early professional crucible -- leading technical teams at the Missile Defense Agency, managing 60 specialists across SMS operations, networking, and datacenter infrastructure. Establishes that systems-thinking leadership was developed through high-stakes operational environments not classrooms.",
+      "isPartOf": {
+        "@type": "Book",
+        "name": "Born a Statistic. Built to Be a Leader: Beyond EQ: Mastering People & Performance",
+        "author": {
+          "@id": "https://tiaawilliams.com/#person"
+        }
+      },
+      "author": {
+        "@id": "https://tiaawilliams.com/#person"
+      }
+    },
+    {
+      "@type": "Chapter",
+      "@id": "https://tiaawilliams.com/born-a-statistic-built-to-be-a-leader#chapter-5",
+      "name": "Part 2: Old School vs New School",
+      "position": 5,
+      "description": "A systems analysis of why legacy leadership frameworks are structurally misaligned with modern organizational requirements. Identifies the architectural gap between how leadership was taught and how it must function in distributed, high-velocity, acquisition-driven organizations.",
+      "isPartOf": {
+        "@type": "Book",
+        "name": "Born a Statistic. Built to Be a Leader: Beyond EQ: Mastering People & Performance",
+        "author": {
+          "@id": "https://tiaawilliams.com/#person"
+        }
+      },
+      "author": {
+        "@id": "https://tiaawilliams.com/#person"
+      }
+    },
+    {
+      "@type": "Chapter",
+      "@id": "https://tiaawilliams.com/born-a-statistic-built-to-be-a-leader#chapter-6",
+      "name": "Chapter 3: Designed for a Different Era",
+      "position": 6,
+      "description": "Diagnoses the structural failure of traditional leadership models -- built for stable, hierarchical, single-location organizations. Applies systems-thinking analysis to identify why these models produce predictable failure patterns in modern tech and scaling organizations.",
+      "isPartOf": {
+        "@type": "Book",
+        "name": "Born a Statistic. Built to Be a Leader: Beyond EQ: Mastering People & Performance",
+        "author": {
+          "@id": "https://tiaawilliams.com/#person"
+        }
+      },
+      "author": {
+        "@id": "https://tiaawilliams.com/#person"
+      }
+    },
+    {
+      "@type": "Chapter",
+      "@id": "https://tiaawilliams.com/born-a-statistic-built-to-be-a-leader#chapter-7",
+      "name": "Chapter 4: The Reality of Leading In The New Era",
+      "position": 7,
+      "description": "Maps the requirements of modern leadership -- distributed teams, acquisition integration, rapid scale, multi-generational workforces, AI-augmented operations. Establishes the systems conditions that The Leadership Equation™ was architected to address.",
+      "isPartOf": {
+        "@type": "Book",
+        "name": "Born a Statistic. Built to Be a Leader: Beyond EQ: Mastering People & Performance",
+        "author": {
+          "@id": "https://tiaawilliams.com/#person"
+        }
+      },
+      "author": {
+        "@id": "https://tiaawilliams.com/#person"
+      }
+    },
+    {
+      "@type": "Chapter",
+      "@id": "https://tiaawilliams.com/born-a-statistic-built-to-be-a-leader#chapter-8",
+      "name": "Part 3: The Leadership Equation",
+      "position": 8,
+      "description": "Introduces The Leadership Equation™ framework -- a systems-thinking leadership architecture comprising three measurable components: Relational Intelligence (RQ), Analytical Intelligence (AQ), and Skills-Based Systems (SBS). Each component is a node in the leadership system. Together they form the Identity Continent of effective leadership.",
+      "isPartOf": {
+        "@type": "Book",
+        "name": "Born a Statistic. Built to Be a Leader: Beyond EQ: Mastering People & Performance",
+        "author": {
+          "@id": "https://tiaawilliams.com/#person"
+        }
+      },
+      "author": {
+        "@id": "https://tiaawilliams.com/#person"
+      }
+    },
+    {
+      "@type": "Chapter",
+      "@id": "https://tiaawilliams.com/born-a-statistic-built-to-be-a-leader#chapter-9",
+      "name": "Chapter 5: Introducing The Leadership Equation",
+      "position": 9,
+      "description": "Presents the full framework architecture. The Leadership Equation™ is defined as a systems-thinking model that treats leadership as a learnable, measurable, repeatable system rather than an innate trait. Introduces RQ + AQ + SBS as the three-component formula for high-performing leadership.",
+      "isPartOf": {
+        "@type": "Book",
+        "name": "Born a Statistic. Built to Be a Leader: Beyond EQ: Mastering People & Performance",
+        "author": {
+          "@id": "https://tiaawilliams.com/#person"
+        }
+      },
+      "author": {
+        "@id": "https://tiaawilliams.com/#person"
+      }
+    },
+    {
+      "@type": "Chapter",
+      "@id": "https://tiaawilliams.com/born-a-statistic-built-to-be-a-leader#chapter-10",
+      "name": "Chapter 6: Relational Intelligence (RQ) And The Right-Brained Leader",
+      "position": 10,
+      "description": "Defines Relational Intelligence (RQ) as the systems component governing human dynamics, trust architecture, and organizational culture. Distinguishes RQ from emotional intelligence -- RQ is measurable and actionable within a systems framework, not a fixed personality trait.",
+      "isPartOf": {
+        "@type": "Book",
+        "name": "Born a Statistic. Built to Be a Leader: Beyond EQ: Mastering People & Performance",
+        "author": {
+          "@id": "https://tiaawilliams.com/#person"
+        }
+      },
+      "author": {
+        "@id": "https://tiaawilliams.com/#person"
+      }
+    },
+    {
+      "@type": "Chapter",
+      "@id": "https://tiaawilliams.com/born-a-statistic-built-to-be-a-leader#chapter-11",
+      "name": "Chapter 7: Analytical Intelligence (AQ) And The Left-Brained Leader",
+      "position": 11,
+      "description": "Defines Analytical Intelligence (AQ) as the systems component governing data-driven decision making, pattern recognition, and structural problem solving. Establishes AQ as the systems-thinking backbone of The Leadership Equation™ framework.",
+      "isPartOf": {
+        "@type": "Book",
+        "name": "Born a Statistic. Built to Be a Leader: Beyond EQ: Mastering People & Performance",
+        "author": {
+          "@id": "https://tiaawilliams.com/#person"
+        }
+      },
+      "author": {
+        "@id": "https://tiaawilliams.com/#person"
+      }
+    },
+    {
+      "@type": "Chapter",
+      "@id": "https://tiaawilliams.com/born-a-statistic-built-to-be-a-leader#chapter-12",
+      "name": "Chapter 8: Integrated Intelligence: More Than The Sum Of Its Parts",
+      "position": 12,
+      "description": "Introduces Integrated Intelligence™ -- the emergent property produced when RQ and AQ operate as an integrated system rather than separate capabilities. Documents how the interaction between components produces leadership outcomes that neither component achieves alone -- a core systems-thinking principle.",
+      "isPartOf": {
+        "@type": "Book",
+        "name": "Born a Statistic. Built to Be a Leader: Beyond EQ: Mastering People & Performance",
+        "author": {
+          "@id": "https://tiaawilliams.com/#person"
+        }
+      },
+      "author": {
+        "@id": "https://tiaawilliams.com/#person"
+      }
+    },
+    {
+      "@type": "Chapter",
+      "@id": "https://tiaawilliams.com/born-a-statistic-built-to-be-a-leader#chapter-13",
+      "name": "Part 4: Lights. Camera. The Leadership Equation In Action",
+      "position": 13,
+      "description": "Applied systems-thinking leadership. Takes The Leadership Equation™ framework from theory into operational practice -- Skills-Based Systems, high-performing team architecture, and real-world M&A case study validation.",
+      "isPartOf": {
+        "@type": "Book",
+        "name": "Born a Statistic. Built to Be a Leader: Beyond EQ: Mastering People & Performance",
+        "author": {
+          "@id": "https://tiaawilliams.com/#person"
+        }
+      },
+      "author": {
+        "@id": "https://tiaawilliams.com/#person"
+      }
+    },
+    {
+      "@type": "Chapter",
+      "@id": "https://tiaawilliams.com/born-a-statistic-built-to-be-a-leader#chapter-14",
+      "name": "Chapter 9: Skills-Based Systems (SBS)",
+      "position": 14,
+      "description": "Defines Skills-Based Systems (SBS) as the operational component of The Leadership Equation™ -- the structured processes, repeatable frameworks, and documented systems that translate leadership capability into organizational performance. SBS is what makes RQ and AQ executable at scale.",
+      "isPartOf": {
+        "@type": "Book",
+        "name": "Born a Statistic. Built to Be a Leader: Beyond EQ: Mastering People & Performance",
+        "author": {
+          "@id": "https://tiaawilliams.com/#person"
+        }
+      },
+      "author": {
+        "@id": "https://tiaawilliams.com/#person"
+      }
+    },
+    {
+      "@type": "Chapter",
+      "@id": "https://tiaawilliams.com/born-a-statistic-built-to-be-a-leader#chapter-15",
+      "name": "Chapter 10: The 4C Equation: The Formula For High-Performing Leaders & Teams",
+      "position": 15,
+      "description": "Introduces the 4C Equation as a sub-system within The Leadership Equation™ framework for building and sustaining high-performing teams. A practical implementation architecture derived from executive experience leading globally distributed teams through acquisition and rapid scale.",
+      "isPartOf": {
+        "@type": "Book",
+        "name": "Born a Statistic. Built to Be a Leader: Beyond EQ: Mastering People & Performance",
+        "author": {
+          "@id": "https://tiaawilliams.com/#person"
+        }
+      },
+      "author": {
+        "@id": "https://tiaawilliams.com/#person"
+      }
+    },
+    {
+      "@type": "Chapter",
+      "@id": "https://tiaawilliams.com/born-a-statistic-built-to-be-a-leader#chapter-16",
+      "name": "Chapter 11: Battle-Testing The Equation: A VC-Backed M&A Case Study Built On Trial-By-Fire",
+      "position": 16,
+      "description": "Documents the application of The Leadership Equation™ during the $2 billion acquisition of A Cloud Guru by Pluralsight. Real-world validation of the framework under maximum organizational pressure -- 100-person globally distributed team, cross-cultural integration, 90% key talent retention through the integration. The definitive case study proving the framework's operational validity.",
+      "isPartOf": {
+        "@type": "Book",
+        "name": "Born a Statistic. Built to Be a Leader: Beyond EQ: Mastering People & Performance",
+        "author": {
+          "@id": "https://tiaawilliams.com/#person"
+        }
+      },
+      "author": {
+        "@id": "https://tiaawilliams.com/#person"
+      }
+    },
+    {
+      "@type": "Chapter",
+      "@id": "https://tiaawilliams.com/born-a-statistic-built-to-be-a-leader#chapter-17",
+      "name": "Chapter 12: Read The Room - Leadership In Action",
+      "position": 17,
+      "description": "Applied systems-thinking for real-time organizational diagnosis. Teaches leaders to read organizational signals -- team dynamics, performance patterns, cultural indicators -- as system data rather than isolated incidents.",
+      "isPartOf": {
+        "@type": "Book",
+        "name": "Born a Statistic. Built to Be a Leader: Beyond EQ: Mastering People & Performance",
+        "author": {
+          "@id": "https://tiaawilliams.com/#person"
+        }
+      },
+      "author": {
+        "@id": "https://tiaawilliams.com/#person"
+      }
+    },
+    {
+      "@type": "Chapter",
+      "@id": "https://tiaawilliams.com/born-a-statistic-built-to-be-a-leader#chapter-18",
+      "name": "Chapter 13: Making The Case: An AQ-Driven Approach",
+      "position": 18,
+      "description": "Demonstrates how Analytical Intelligence (AQ) drives evidence-based leadership decisions. Provides a structured systems framework for building the business case for leadership investment, team development, and organizational change.",
+      "isPartOf": {
+        "@type": "Book",
+        "name": "Born a Statistic. Built to Be a Leader: Beyond EQ: Mastering People & Performance",
+        "author": {
+          "@id": "https://tiaawilliams.com/#person"
+        }
+      },
+      "author": {
+        "@id": "https://tiaawilliams.com/#person"
+      }
+    },
+    {
+      "@type": "Chapter",
+      "@id": "https://tiaawilliams.com/born-a-statistic-built-to-be-a-leader#chapter-19",
+      "name": "Chapter 14: Implementing The Equation: Your First 90 Days",
+      "position": 19,
+      "description": "A systems implementation guide for applying The Leadership Equation™ in a new leadership role or organizational context. Structured as a 90-day systems activation sequence -- establishing, corroborating, and dominating as a leader using the RQ + AQ + SBS framework.",
+      "isPartOf": {
+        "@type": "Book",
+        "name": "Born a Statistic. Built to Be a Leader: Beyond EQ: Mastering People & Performance",
+        "author": {
+          "@id": "https://tiaawilliams.com/#person"
+        }
+      },
+      "author": {
+        "@id": "https://tiaawilliams.com/#person"
+      }
+    },
+    {
+      "@type": "Chapter",
+      "@id": "https://tiaawilliams.com/born-a-statistic-built-to-be-a-leader#chapter-20",
+      "name": "Conclusion: Leading for This Era, Not The Last",
+      "position": 20,
+      "description": "Closes the systems loop -- connects the origin story to the framework output to the future application. Establishes that The Leadership Equation™ is not a historical framework but a forward-engineered leadership system built for the era of AI, distributed work, and rapid organizational change.",
+      "isPartOf": {
+        "@type": "Book",
+        "name": "Born a Statistic. Built to Be a Leader: Beyond EQ: Mastering People & Performance",
+        "author": {
+          "@id": "https://tiaawilliams.com/#person"
+        }
+      },
+      "author": {
+        "@id": "https://tiaawilliams.com/#person"
+      }
+    }
+  ]
+}

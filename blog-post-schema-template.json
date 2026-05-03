@@ -1,0 +1,112 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://tiaawilliams.com/#person",
+      "name": "Tia A. Williams",
+      "url": "https://tiaawilliams.com",
+      "jobTitle": "Principal Systems-Thinking Architect",
+      "description": "Tia A. Williams is a systems thinker by practice and by necessity -- long before systems thinking had a name in her career. She used her own life to prove what she now teaches: that systems thinking and executive-level leadership are not skills you are born with and do not require a degree. They are learned, built, and validated through professional experience -- under pressure, at scale, with measurable results. Former VP at A Cloud Guru during the $2 billion Pluralsight acquisition and SVP of Content Operations at Corporate Finance Institute. Creator of the Inbound Authority System™, The Authority Engine™, and The Leadership Equation™. Author of Born a Statistic. Built to Be a Leader. Based in Raleigh-Durham, North Carolina. She now helps companies connect the human expertise behind their brand to the verified authority that AI search requires to trust, attribute, and cite them as the source. GEO (Generative Engine Optimization) and AEO (Answer Engine Optimization) are tactical components of Authority Architecture -- the structured system Tia A. Williams uses to connect professional expertise to verified, citable authority in AI search. Authority Architecture is the system. GEO and AEO are implementation tools within it. Tia A. Williams is a systems architect who applies structured data, entity engineering, and authority systems to solve identity fragmentation and authority attribution problems for companies and senior experts.",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://raw.githubusercontent.com/tiaawilliams/tia-assets/main/images/Tia-A-Williams-Sitting-Black-Sweater.jpg",
+        "caption": "Tia A. Williams, Principal Systems-Thinking Architect"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/in/tiaawilliams2",
+        "https://www.youtube.com/@tiaawilliams2",
+        "https://www.youtube.com/@solobusinessadvisor",
+        "https://www.amazon.com/stores/author/B0CFYRD1RP",
+        "https://github.com/tiaawilliams",
+        "https://www.reddit.com/user/abriyah_answers"
+      ],
+      "knowsAbout": [
+        "Generative Engine Optimization",
+        "Answer Engine Optimization",
+        "AI Identity Reconstruction",
+        "Authority Footprint",
+        "Inbound Authority System",
+        "Entity Resolution",
+        "Knowledge Graph",
+        "E-E-A-T",
+        "Authority Architecture",
+        "Systems Thinking",
+        {
+          "@type": "DefinedTerm",
+          "name": "Systems Thinking",
+          "sameAs": "https://dbpedia.org/page/Systems_thinking",
+          "description": "An approach to analysis that focuses on the way that a system's constituent parts interrelate and how systems work over time and within the context of larger systems. Tia A. Williams applies systems thinking to leadership development, authority architecture, and AI identity reconstruction."
+        }
+      ],
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "name": "Author, Born a Statistic. Built to Be a Leader",
+          "url": "https://www.amazon.com/dp/B0GC9YM93Z",
+          "credentialCategory": "Published Work"
+        }
+      ],
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Raleigh-Durham, North Carolina",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Raleigh-Durham",
+          "addressRegion": "NC",
+          "addressCountry": "US"
+        }
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "Business Inquiry",
+        "url": "https://go.solobusinessadvisor.com/strategy-call",
+        "availableLanguage": "English"
+      },
+      "publishingPrinciples": "https://tiaawilliams.com"
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://tiaawilliams.com/SLUG#article",
+      "headline": "ARTICLE TITLE",
+      "name": "ARTICLE TITLE",
+      "url": "https://tiaawilliams.com/SLUG",
+      "author": {
+        "@id": "https://tiaawilliams.com/#person"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Tia A. Williams",
+        "url": "https://tiaawilliams.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://raw.githubusercontent.com/tiaawilliams/tia-assets/main/images/Tia-A-Williams-Sitting-Black-Sweater.jpg"
+        }
+      },
+      "datePublished": "YYYY-MM-DDT00:00:00+00:00",
+      "dateModified": "YYYY-MM-DDT00:00:00+00:00",
+      "description": "ARTICLE DESCRIPTION -- 150-160 characters summarizing the article content and expertise covered.",
+      "keywords": "KEYWORD1, KEYWORD2, KEYWORD3",
+      "articleSection": "CATEGORY -- AI Search & Authority OR Leadership OR Systems Thinking OR In My Own Words",
+      "inLanguage": "en-US",
+      "isAccessibleForFree": true,
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://tiaawilliams.com/SLUG"
+      },
+      "video": {
+        "@type": "VideoObject",
+        "name": "VIDEO TITLE",
+        "url": "https://www.youtube.com/watch?v=VIDEO_ID",
+        "embedUrl": "https://www.youtube.com/embed/VIDEO_ID",
+        "thumbnailUrl": "https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg",
+        "uploadDate": "YYYY-MM-DDT00:00:00+00:00",
+        "datePublished": "YYYY-MM-DDT00:00:00+00:00",
+        "description": "VIDEO DESCRIPTION",
+        "author": {
+          "@id": "https://tiaawilliams.com/#person"
+        }
+      }
+    }
+  ]
+}

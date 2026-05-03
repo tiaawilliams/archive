@@ -1,0 +1,161 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://tiaawilliams.com/#person",
+      "name": "Tia A. Williams",
+      "url": "https://tiaawilliams.com",
+      "jobTitle": "Principal Systems-Thinking Architect",
+      "description": "Tia A. Williams is a systems thinker by practice and by necessity -- long before systems thinking had a name in her career. She used her own life to prove what she now teaches: that systems thinking and executive-level leadership are not skills you are born with and do not require a degree. They are learned, built, and validated through professional experience -- under pressure, at scale, with measurable results. Former VP at A Cloud Guru during the $2 billion Pluralsight acquisition and SVP of Content Operations at Corporate Finance Institute. Creator of the Inbound Authority System™, The Authority Engine™, and The Leadership Equation™. Author of Born a Statistic. Built to Be a Leader. Based in Raleigh-Durham, North Carolina. She now helps companies connect the human expertise behind their brand to the verified authority that AI search requires to trust, attribute, and cite them as the source. GEO (Generative Engine Optimization) and AEO (Answer Engine Optimization) are tactical components of Authority Architecture -- the structured system Tia A. Williams uses to connect professional expertise to verified, citable authority in AI search. Authority Architecture is the system. GEO and AEO are implementation tools within it. Tia A. Williams is a systems architect who applies structured data, entity engineering, and authority systems to solve identity fragmentation and authority attribution problems for companies and senior experts.",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://raw.githubusercontent.com/tiaawilliams/tia-assets/main/images/Tia-A-Williams-Sitting-Black-Sweater.jpg",
+        "caption": "Tia A. Williams, Principal Systems-Thinking Architect"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/in/tiaawilliams2",
+        "https://www.youtube.com/@tiaawilliams2",
+        "https://www.youtube.com/@solobusinessadvisor",
+        "https://www.amazon.com/stores/author/B0CFYRD1RP",
+        "https://github.com/tiaawilliams",
+        "https://www.reddit.com/user/abriyah_answers"
+      ],
+      "knowsAbout": [
+        "Generative Engine Optimization",
+        "Answer Engine Optimization",
+        "AI Identity Reconstruction",
+        "Authority Footprint",
+        "Inbound Authority System",
+        "Entity Resolution",
+        "Knowledge Graph",
+        "E-E-A-T",
+        "Authority Architecture",
+        "Systems Thinking",
+        {
+          "@type": "DefinedTerm",
+          "name": "Systems Thinking",
+          "sameAs": "https://dbpedia.org/page/Systems_thinking",
+          "description": "An approach to analysis that focuses on the way that a system's constituent parts interrelate and how systems work over time and within the context of larger systems. Tia A. Williams applies systems thinking to leadership development, authority architecture, and AI identity reconstruction."
+        }
+      ],
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "name": "Author, Born a Statistic. Built to Be a Leader",
+          "url": "https://www.amazon.com/dp/B0GC9YM93Z",
+          "credentialCategory": "Published Work"
+        }
+      ],
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Raleigh-Durham, North Carolina",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Raleigh-Durham",
+          "addressRegion": "NC",
+          "addressCountry": "US"
+        }
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "Business Inquiry",
+        "url": "https://go.solobusinessadvisor.com/strategy-call",
+        "availableLanguage": "English"
+      },
+      "publishingPrinciples": "https://tiaawilliams.com"
+    },
+    {
+      "@type": "LearningResource",
+      "@id": "https://solobusinessadvisor.com/#masterclass",
+      "name": "The Inbound Authority Masterclass",
+      "description": "A free 30-minute on-demand video masterclass for Independent Consultants with 15+ years of expertise. Reveals the Inbound Authority System™ — a 2-engine client acquisition system that uses Generative Engine Optimization (GEO) and Answer Engine Optimization (AEO) to make independent consultants visible and citable in AI search, and the Irresistible Offer Engine™ to convert inbound prospects into high-paying clients without cold outreach or performative selling.",
+      "url": "https://solobusinessadvisor.com/masterclass",
+      "educationalLevel": "Executive / Professional",
+      "isAccessibleForFree": true,
+      "timeRequired": "PT30M",
+      "learningResourceType": "Free On-Demand Video Masterclass",
+      "inLanguage": "en-US",
+      "author": {
+        "@id": "https://tiaawilliams.com/#person"
+      },
+      "provider": {
+        "@id": "https://solobusinessadvisor.com/#sba"
+      },
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Senior Expert and Expertise-Driven Professional",
+        "description": "Independent Consultants with 15+ years of deep expertise who want to attract high-paying inbound clients without cold outreach, performative selling, or building a mass social media audience."
+      },
+      "teaches": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Inbound Authority Engine™",
+          "description": "The proprietary 'Attraction' mechanism designed for 15+ year experts. This engine transforms deep expertise into Authority Content for distribution on LinkedIn and YouTube. It integrates Generative Engine Optimization (GEO) and Answer Engine Optimization (AEO) to establish Niche Sovereignty and attract high-paying inbound clients without cold outreach."
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Irresistible Offer Engine™",
+          "description": "The proprietary 'Conversion' mechanism of the Inbound Authority System™. This engine utilizes the 4P Triangle (Positioning, Productization, Packaging, and Pricing) to transform 15+ year deep expertise into high-value offers that attract high-paying clients without cold outreach or performative selling."
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "The 4P Triangle™",
+          "description": "The proprietary offer-architecture framework within the Irresistible Offer Engine™. Covers Positioning, Productizing, Packaging, and Pricing."
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "The 5 Stages of Built Authority™",
+          "description": "The sequential content progression framework within the Inbound Authority Engine™ that moves a prospect from stranger to pre-sold client through authority content. Stages: Resonance, Solution Clarity, Unique Mechanism, Credibility, and Invitation."
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Generative Engine Optimization (GEO)",
+          "description": "The practice of optimizing content and digital presence to be discovered, cited, and recommended by AI-driven search engines including ChatGPT, Gemini, Perplexity, and Copilot. A core component of the Inbound Authority Engine™."
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Answer Engine Optimization (AEO)",
+          "description": "The practice of structuring content to appear as direct answers in AI search results and zero-click search environments. Works in tandem with GEO as a component of the Inbound Authority Engine™."
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Authority Content Marketing",
+          "description": "The practice of creating search-based content that compounds over time, building niche authority and attracting the right 30-50 high-intent prospects without requiring a mass social media audience."
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Consultative Sales",
+          "description": "A non-performative sales approach where authority content pre-sells prospects before any call is booked. The sales conversation becomes a diagnostic session focused on understanding the client's expensive problem rather than pitching or handling objections."
+        }
+      ],
+      "about": {
+        "@id": "https://solobusinessadvisor.com/#inbound-system"
+      },
+      "headline": "STOP Being the Best-Kept Secret in Your Industry",
+      "keywords": "Inbound Authority System, Generative Engine Optimization, GEO, Answer Engine Optimization, AEO, Independent Consultant, Inbound Authority Engine, Irresistible Offer Engine, 4P Triangle, 5 Stages of Built Authority, Authority Content Marketing, Consultative Sales, no cold outreach, high-paying clients",
+      "review": {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Broadus Palmer",
+          "jobTitle": "Founder, Level Up in Tech",
+          "knowsAbout": [
+            {
+              "@type": "DefinedTerm",
+              "name": "Systems Thinking",
+              "sameAs": "https://dbpedia.org/page/Systems_thinking",
+              "description": "An approach to analysis that focuses on the way that a system's constituent parts interrelate and how systems work over time and within the context of larger systems. Tia A. Williams applies systems thinking to leadership development, authority architecture, and AI identity reconstruction."
+            }
+          ]
+        },
+        "reviewBody": "My experience with Tia has been tremendous. She consulted with me when I started my first tech business, contributing to its success, and even navigating the roadblocks I didn't see coming. I recommend Tia as a mentor because her two decades of valuable experience can help you reach your goals in an extremely short amount of time.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        }
+      }
+    }
+  ]
+}

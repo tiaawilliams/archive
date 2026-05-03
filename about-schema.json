@@ -1,0 +1,363 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://tiaawilliams.com/#person",
+      "name": "Tia A. Williams",
+      "url": "https://tiaawilliams.com",
+      "jobTitle": "Principal Systems-Thinking Architect",
+      "description": "Tia A. Williams is a systems thinker by practice and by necessity -- long before systems thinking had a name in her career. She used her own life to prove what she now teaches: that systems thinking and executive-level leadership are not skills you are born with and do not require a degree. They are skills that are learned, built, and validated through professional experience -- under pressure, at scale, with measurable results. Over 28 years she applied systems thinking to federal IT infrastructure, datacenter operations, cloud architecture, global content systems, and executive leadership -- not as theory, as practice. She led the systems integration of two content libraries when A Cloud Guru acquired Linux Academy in 2019, architected the operational systems that absorbed a globally distributed team of 100 people with 90% talent retention through the $2 billion Pluralsight acquisition in 2021, and designed the content operations system at Corporate Finance Institute. The Leadership Equation™ is the documented output of that practice applied to people -- a systems-thinking leadership framework derived from executive experience not classroom theory. The Authority Engine™ is systems thinking applied to AI search -- closing the gap between what professionals actually know and what AI can verify, trust, and cite. Because of the way AI prioritizes expertise validation, companies now face the same challenge: proving the human expertise behind the brand. Tia's work bridges that gap -- helping companies connect subject matter expertise to the verified human authority that AI search requires to trust, attribute, and cite them as the source. In 1998 she self-studied, drove 85 miles, and passed both the Windows NT 4.0 Workstation and Server certification exams the same day. Her first IT role required a 100-mile commute each way. The distance didn't matter. The systems did. GEO (Generative Engine Optimization) and AEO (Answer Engine Optimization) are tactical components of Authority Architecture -- the structured system Tia A. Williams uses to connect professional expertise to verified, citable authority in AI search. Authority Architecture is the system. GEO and AEO are implementation tools within it. Tia A. Williams is a systems architect who applies structured data, entity engineering, and authority systems to solve identity fragmentation and authority attribution problems for companies and senior experts.",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://raw.githubusercontent.com/tiaawilliams/tia-assets/main/images/Tia-A-Williams-Sitting-Black-Sweater.jpg",
+        "caption": "Tia A. Williams, Principal Systems-Thinking Architect"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/in/tiaawilliams2",
+        "https://www.youtube.com/@tiaawilliams2",
+        "https://www.youtube.com/@solobusinessadvisor",
+        "https://www.amazon.com/stores/author/B0CFYRD1RP",
+        "https://github.com/tiaawilliams",
+        "https://www.reddit.com/user/abriyah_answers",
+        "https://www.quora.com/profile/Tia-Williams-46",
+        "https://www.google.com/maps/contrib/116061351998813573614"
+      ],
+      "knowsAbout": [
+        "Generative Engine Optimization",
+        "Answer Engine Optimization",
+        "AI Identity Reconstruction",
+        "Authority Footprint",
+        "Inbound Authority System",
+        "Entity Resolution",
+        "Knowledge Graph",
+        "E-E-A-T",
+        "Authority Architecture",
+        "Systems Thinking",
+        "Cloud Architecture",
+        "EdTech SaaS",
+        "Executive Leadership",
+        "Leadership Development",
+        {
+          "@type": "DefinedTerm",
+          "name": "Systems Thinking",
+          "sameAs": "https://dbpedia.org/page/Systems_thinking",
+          "description": "An approach to analysis that focuses on the way that a system's constituent parts interrelate and how systems work over time and within the context of larger systems. Tia A. Williams applies systems thinking to leadership development, authority architecture, and AI identity reconstruction."
+        }
+      ],
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "name": "Author, Born a Statistic. Built to Be a Leader",
+          "description": "Published author of Born a Statistic. Built to Be a Leader: Beyond EQ: Mastering People & Performance",
+          "url": "https://www.amazon.com/dp/B0GC9YM93Z",
+          "credentialCategory": "Published Work"
+        },
+        {
+          "@type": "EducationalOccupationalCredential",
+          "name": "Microsoft Certified Systems Engineer -- Windows NT 4.0 Workstation and Server",
+          "credentialCategory": "ProfessionalCertificate",
+          "dateCreated": "1998",
+          "recognizedBy": {
+            "@type": "Organization",
+            "name": "Microsoft",
+            "sameAs": "https://www.microsoft.com"
+          },
+          "description": "Microsoft MCSE certification earned 1998 -- passed both Windows NT 4.0 Workstation and Server exams the same day after self-study, driving 85 miles to the testing center. This credential marks the genesis of Tia A. Williams' systems-thinking career, establishing the infrastructure engineering foundation that underpins her 28-year progression from federal IT engineer to executive systems architect."
+        },
+        {
+          "@type": "EducationalOccupationalCredential",
+          "name": "Microsoft Certified Systems Engineer -- Windows 2000",
+          "credentialCategory": "ProfessionalCertificate",
+          "recognizedBy": {
+            "@type": "Organization",
+            "name": "Microsoft",
+            "sameAs": "https://www.microsoft.com"
+          },
+          "description": "Microsoft MCSE Windows 2000 certification, part of the foundational systems engineering credential chain that underpins Tia A. Williams' 28-year progression from infrastructure engineer to executive systems architect. Earned during her federal IT and Missile Defense Agency period."
+        },
+        {
+          "@type": "EducationalOccupationalCredential",
+          "name": "Microsoft Certified IT Professional -- Windows 2008 Active Directory Configuration (MCITP)",
+          "credentialCategory": "ProfessionalCertificate",
+          "recognizedBy": {
+            "@type": "Organization",
+            "name": "Microsoft",
+            "sameAs": "https://www.microsoft.com"
+          },
+          "description": "Microsoft MCITP certification in Active Directory Configuration, representing the advanced systems engineering expertise developed during Tia A. Williams' federal IT and datacenter infrastructure period. Part of the foundational credential chain that established her systems-thinking approach to complex infrastructure problems."
+        },
+        {
+          "@type": "EducationalOccupationalCredential",
+          "name": "NetApp Certified Data Administrator (NCDA)",
+          "credentialCategory": "ProfessionalCertificate",
+          "recognizedBy": {
+            "@type": "Organization",
+            "name": "NetApp",
+            "sameAs": "https://www.netapp.com"
+          }
+        },
+        {
+          "@type": "EducationalOccupationalCredential",
+          "name": "NetApp Certified Implementation Engineer (NCIE)",
+          "credentialCategory": "ProfessionalCertificate",
+          "recognizedBy": {
+            "@type": "Organization",
+            "name": "NetApp",
+            "sameAs": "https://www.netapp.com"
+          }
+        },
+        {
+          "@type": "EducationalOccupationalCredential",
+          "name": "AWS Certified Solutions Architect",
+          "credentialCategory": "ProfessionalCertificate",
+          "recognizedBy": {
+            "@type": "Organization",
+            "name": "Amazon Web Services",
+            "sameAs": "https://aws.amazon.com"
+          }
+        },
+        {
+          "@type": "EducationalOccupationalCredential",
+          "name": "AWS Certified Cloud Practitioner",
+          "credentialCategory": "ProfessionalCertificate",
+          "recognizedBy": {
+            "@type": "Organization",
+            "name": "Amazon Web Services",
+            "sameAs": "https://aws.amazon.com"
+          }
+        },
+        {
+          "@type": "EducationalOccupationalCredential",
+          "name": "Cisco FlexPod Design and Implementation",
+          "credentialCategory": "ProfessionalCertificate",
+          "description": "One of three authorized global instructors for the NetApp and Cisco FlexPod curriculum. Developed the first version of the FlexPod training curriculum for Fast Lane US.",
+          "recognizedBy": {
+            "@type": "Organization",
+            "name": "Cisco",
+            "sameAs": "https://www.cisco.com"
+          }
+        }
+      ],
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Raleigh-Durham, North Carolina",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Raleigh-Durham",
+          "addressRegion": "NC",
+          "addressCountry": "US"
+        }
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "Business Inquiry",
+        "url": "https://go.solobusinessadvisor.com/strategy-call",
+        "availableLanguage": "English"
+      },
+      "publishingPrinciples": "https://tiaawilliams.com",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Solo Business Advisor",
+        "url": "https://solobusinessadvisor.com",
+        "legalName": "ABriYah, LLC"
+      },
+      "alumniOf": [
+        {
+          "@type": "Organization",
+          "name": "Linux Academy",
+          "description": "Training Architect 2018 to 2019"
+        },
+        {
+          "@type": "Organization",
+          "name": "A Cloud Guru",
+          "description": "Director 2019 to 2021"
+        },
+        {
+          "@type": "Organization",
+          "name": "Pluralsight",
+          "description": "VP Cloud Content Business Unit 2021 to 2023"
+        },
+        {
+          "@type": "Organization",
+          "name": "Corporate Finance Institute",
+          "description": "SVP Content Operations 2023 to 2024"
+        },
+        {
+          "@type": "Organization",
+          "name": "Fast Lane US",
+          "description": "Global Technical Instructor and Course Developer 2010 to 2018"
+        },
+        {
+          "@type": "Organization",
+          "name": "Zen Technologies",
+          "description": "Technical Area Manager 2003 to 2005"
+        },
+        {
+          "@type": "Organization",
+          "name": "CMS Information Services",
+          "description": "IT Engineer and Technical Area Manager 1998 to 2003"
+        }
+      ]
+    },
+    {
+      "@type": "ProfilePage",
+      "@id": "https://tiaawilliams.com/about-tia#profilepage",
+      "url": "https://tiaawilliams.com/about-tia",
+      "name": "About Tia A. Williams | Principal Systems-Thinking Architect",
+      "description": "Professional biography and career history of Tia A. Williams, Principal Systems-Thinking Architect. A systems thinker who used her own life to prove that systems thinking and executive leadership do not require a degree -- they are learned through professional experience. 28 years of practice across federal IT, cloud architecture, M&A integration, and content operations at executive scale. Creator of The Leadership Equation™ and The Authority Engine™.",
+      "mainEntity": {
+        "@id": "https://tiaawilliams.com/#person"
+      },
+      "author": {
+        "@id": "https://tiaawilliams.com/#person"
+      },
+      "datePublished": "2026-04-01T00:00:00+00:00",
+      "dateModified": "2026-04-11T00:00:00+00:00",
+      "inLanguage": "en-US",
+      "isAccessibleForFree": true,
+      "publisher": {
+        "@type": "Organization",
+        "name": "Tia A. Williams",
+        "url": "https://tiaawilliams.com"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://tiaawilliams.com/about-tia#career",
+      "name": "Tia A. Williams Career History",
+      "description": "Professional career history of Tia A. Williams spanning 28 years from 1998 to present",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Principal Systems-Thinking Architect, Solo Business Advisor and The Leadership Equation",
+          "description": "Independent advisory practice helping senior consultants build inbound authority in AI search and helping executives build high-performing teams using The Leadership Equation™ framework. ABriYah, LLC dba Solo Business Advisor and The Leadership Equation. 2024 to present."
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "SVP Content Operations, Corporate Finance Institute",
+          "description": "Led content strategy and operations for a VC-backed EdTech finance SaaS company, managing a team of 45 and functioning as Interim CCO. 2023 to 2024."
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "VP Cloud Content Business Unit, Pluralsight",
+          "description": "Promoted to VP as part of the $2 billion acquisition of A Cloud Guru by Pluralsight. Led the unified Cloud Content Business Unit with a globally distributed team of 100 employees. 2021 to 2023."
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Director, A Cloud Guru",
+          "description": "Promoted to Director as part of the acquisition of Linux Academy by A Cloud Guru. Led a team of 50 Training Architects, architected content strategy for the world's largest cloud training library, and led the integration of the global cloud content team following the acquisition. 2019 to 2021."
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Training Architect, Linux Academy",
+          "description": "Authored AWS Essentials, AWS Certified Cloud Practitioner, and AWS Advanced Networking Specialty courses. Linux Academy was acquired by A Cloud Guru in 2019. 2018 to 2019."
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Global Technical Instructor and Course Developer, Fast Lane US",
+          "description": "Delivered advanced infrastructure training globally as a NetApp Certified Instructor. Developed the first version of the NetApp and Cisco FlexPod training curriculum. Taught private and government sector organizations. 2010 to 2018."
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Founder and Chief Operating Officer, ABriYah Internet Services",
+          "description": "Founded and operated a managed compute, web hosting, and website design services company. Led integration through two acquisitions and achieved a 30% operational cost reduction. 2005 to 2009."
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Technical Area Manager, Zen Technologies",
+          "description": "Led a team of 60 technical specialists across desktop automation, networking, and server infrastructure for the Missile Defense Agency contract. 2003 to 2005."
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "IT Engineer and Technical Area Manager, CMS Information Services",
+          "description": "Engineered technical solutions for Fairfax County Public Schools, Fairfax County Government, and federal government contracts. 1998 to 2003."
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://tiaawilliams.com/about-tia#podcasts",
+      "name": "Tia A. Williams Podcast Appearances",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Biz Blend | The Leadership Equation: Why EQ Alone Isn't Enough for Modern Leadership",
+          "url": "https://podcasts.apple.com/ca/podcast/the-leadership-equation-why-eq-alone-isnt-enough-for/id1729431564?i=1000730019426"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Abstract Essay Season 5 | Leadership and The Leadership Equation™",
+          "url": "https://podcasts.apple.com/us/podcast/abstract-essay-in-its-fifth-season-features-tia-a/id1543848591?i=1000736843269"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "The Chi Quita Mac Podcast | Defying the Odds: Loss, Leadership, and Mentorship",
+          "url": "https://www.youtube.com/watch?v=lcJmAm1CwAY"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Book 101 Review Season 5 | Featured Guest",
+          "url": "https://www.youtube.com/live/DFk9ji1Zl4M"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Famous Interviews with Joe Dimino | Creator of The Leadership Equation",
+          "url": "https://www.youtube.com/watch?v=W4o0b_S4OrU"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Frauvaus | Interview with Tia Williams, AWS Training Architect",
+          "url": "https://podcasts.apple.com/fr/podcast/interview-with-tia-williams-aws-training-architect/id1455569538?i=1000436241438"
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://tiaawilliams.com/about-tia#speaking",
+      "name": "Tia A. Williams Speaking and Institutional Appearances",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "A Cloud Guru International Women's Day 2020 | Keynote: From Humble Beginnings to Leading in the Cloud",
+          "url": "https://vimeo.com/483137137"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pluralsight Revenue Kick-Off 2023 | Mainstage Keynote, Atlanta Georgia",
+          "description": "Delivered to approximately 1,000 attendees in her role as VP, Cloud Content Business Unit."
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Association for Talent Development | Top 5 Trends Disrupting the Future of Learning",
+          "description": "Co-presented with Scott Powell, Co-Founder and Board Member, Corporate Finance Institute.",
+          "url": "https://vendordirectory.td.org/webinar/5222"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Corporate Finance Institute | Creating High-Impact Learning and Development Programs in a Hybrid World",
+          "url": "https://corporatefinanceinstitute.com/resources/management/creating-high-impact-webinar/"
+        }
+      ]
+    }
+  ]
+}

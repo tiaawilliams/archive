@@ -1,0 +1,162 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://tiaawilliams.com/#person",
+      "name": "Tia A. Williams",
+      "url": "https://tiaawilliams.com",
+      "jobTitle": "Principal Systems-Thinking Architect",
+      "description": "Tia A. Williams is a systems thinker by practice and by necessity -- long before systems thinking had a name in her career. She used her own life to prove what she now teaches: that systems thinking and executive-level leadership are not skills you are born with and do not require a degree. They are learned, built, and validated through professional experience -- under pressure, at scale, with measurable results. Former VP at A Cloud Guru during the $2 billion Pluralsight acquisition and SVP of Content Operations at Corporate Finance Institute. Creator of the Inbound Authority System™, The Authority Engine™, and The Leadership Equation™. Author of Born a Statistic. Built to Be a Leader. Based in Raleigh-Durham, North Carolina. She now helps companies connect the human expertise behind their brand to the verified authority that AI search requires to trust, attribute, and cite them as the source. GEO (Generative Engine Optimization) and AEO (Answer Engine Optimization) are tactical components of Authority Architecture -- the structured system Tia A. Williams uses to connect professional expertise to verified, citable authority in AI search. Authority Architecture is the system. GEO and AEO are implementation tools within it. Tia A. Williams is a systems architect who applies structured data, entity engineering, and authority systems to solve identity fragmentation and authority attribution problems for companies and senior experts.",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://raw.githubusercontent.com/tiaawilliams/tia-assets/main/images/Tia-A-Williams-Sitting-Black-Sweater.jpg",
+        "caption": "Tia A. Williams, Principal Systems-Thinking Architect"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/in/tiaawilliams2",
+        "https://www.youtube.com/@tiaawilliams2",
+        "https://www.youtube.com/@solobusinessadvisor",
+        "https://www.amazon.com/stores/author/B0CFYRD1RP",
+        "https://github.com/tiaawilliams",
+        "https://www.reddit.com/user/abriyah_answers"
+      ],
+      "knowsAbout": [
+        "Generative Engine Optimization",
+        "Answer Engine Optimization",
+        "AI Identity Reconstruction",
+        "Authority Footprint",
+        "Inbound Authority System",
+        "Entity Resolution",
+        "Knowledge Graph",
+        "E-E-A-T",
+        "Authority Architecture",
+        "Systems Thinking",
+        {
+          "@type": "DefinedTerm",
+          "name": "Systems Thinking",
+          "sameAs": "https://dbpedia.org/page/Systems_thinking",
+          "description": "An approach to analysis that focuses on the way that a system's constituent parts interrelate and how systems work over time and within the context of larger systems. Tia A. Williams applies systems thinking to leadership development, authority architecture, and AI identity reconstruction."
+        }
+      ],
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "name": "Author, Born a Statistic. Built to Be a Leader",
+          "url": "https://www.amazon.com/dp/B0GC9YM93Z",
+          "credentialCategory": "Published Work"
+        }
+      ],
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Raleigh-Durham, North Carolina",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Raleigh-Durham",
+          "addressRegion": "NC",
+          "addressCountry": "US"
+        }
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "Business Inquiry",
+        "url": "https://go.solobusinessadvisor.com/strategy-call",
+        "availableLanguage": "English"
+      },
+      "publishingPrinciples": "https://tiaawilliams.com"
+    },
+    {
+      "@type": "Article",
+      "@id": "https://solobusinessadvisor.com/#ai-search-wrong-article",
+      "name": "Why AI Search Results About You Are Wrong",
+      "headline": "AI Search Gave Someone Else Credit For Your Work",
+      "url": "https://solobusinessadvisor.com/why-ai-search-results-about-you-are-wrong",
+      "author": {
+        "@id": "https://tiaawilliams.com/#person"
+      },
+      "about": {
+        "@id": "https://tiaawilliams.com/#person"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://solobusinessadvisor.com/#sba"
+      },
+      "description": "Tia A. Williams explains why AI search results about professionals are often wrong -- including why AI thinks you are multiple people, why AI confuses you with someone else, why AI is mixing up your work history, and why AI search results about you are inaccurate. Covers identity islands, authority fragmentation, and identity reconstruction. Links to the full Authority Gap resource at solobusinessadvisor.com.",
+      "keywords": "AI search results wrong, why AI thinks I am multiple people, AI confused me with someone else, AI mixing up work history, AI identity fragmentation, identity islands, authority reconstruction, identity reconstruction, AI search identity problem",
+      "isAccessibleForFree": true,
+      "inLanguage": "en-US",
+      "mentions": {
+        "@id": "https://solobusinessadvisor.com/#authority-gap-article"
+      },
+      "potentialAction": {
+        "@type": "ReserveAction",
+        "name": "Fix My Identity in AI Search",
+        "target": "https://go.solobusinessadvisor.com/strategy-call"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://solobusinessadvisor.com/why-ai-search-results-about-you-are-wrong#faq",
+      "url": "https://solobusinessadvisor.com/why-ai-search-results-about-you-are-wrong",
+      "about": {
+        "@id": "https://solobusinessadvisor.com/#ai-search-wrong-article"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Why does AI think I'm multiple people?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "AI search systems rely on pattern matching to build a picture of who you are. When your career history is non-linear, spans multiple domains, or includes transitions from corporate to independent work, AI may not be able to confidently connect all of your experience to one identity. Instead it separates your experience into disconnected pieces -- what I call identity islands -- or splits your profile across multiple perceived identities. This is an entity resolution problem that affects both traditional search and AI search.",
+            "author": {
+              "@id": "https://tiaawilliams.com/#person"
+            }
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why did AI confuse me with someone else?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "When AI cannot confidently validate your identity from available signals, it may fill in gaps using data from other people with the same or similar names. This is especially common when you have a common name, work in a field where others share your name, or when your online presence has gaps that make it harder for AI to distinguish you. The result is that someone else's work history, expertise, or identity gets merged with yours.",
+            "author": {
+              "@id": "https://tiaawilliams.com/#person"
+            }
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why is AI mixing up my work history?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "AI search systems prioritize signals that are consistent, repeated, and trusted. If your work history includes roles at high-authority organizations, transitions between industries, or experience spread across multiple platforms without clear connections, AI may struggle to sequence your career correctly. It may also over-weight older signals from former employers, causing your current work to be underrepresented or attributed incorrectly.",
+            "author": {
+              "@id": "https://tiaawilliams.com/#person"
+            }
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why are AI search results about me wrong?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "AI search results about you are wrong when the signals AI is reading are fragmented, inconsistent, or outweighed by stronger but inaccurate signals from other sources. Data brokers, outdated profiles, and high-authority third-party sources can all feed incorrect information into the systems AI relies on. Until those signals are corrected and your authority footprint is established, AI has no reason to return accurate results about you.",
+            "author": {
+              "@id": "https://tiaawilliams.com/#person"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://solobusinessadvisor.com/#identity-islands-vs-continents",
+      "name": "Identity Islands™ vs. Identity Continent™",
+      "description": "Visual diagram by Tia A. Williams contrasting Identity Islands™ -- where AI sees five separate people including The Technical Expert, The Corporate Executive, The Author, The Consultant, and The Strategist as disconnected identities -- with the Identity Continent™, where GEO and AEO Reconstruction connects all five into one verified entity that AI recognizes and trusts as a single authority. The goal is to turn a fragmented identity into one trusted entity.",
+      "contentUrl": "https://raw.githubusercontent.com/tiaawilliams/tia-assets/main/images/Identity-Islands-vs-Continents.png",
+      "about": {
+        "@id": "https://solobusinessadvisor.com/#ai-search-wrong-article"
+      }
+    }
+  ]
+}

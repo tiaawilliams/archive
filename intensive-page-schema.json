@@ -1,0 +1,198 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://tiaawilliams.com/#person",
+      "name": "Tia A. Williams",
+      "url": "https://tiaawilliams.com",
+      "jobTitle": "Principal Systems-Thinking Architect",
+      "description": "Tia A. Williams is a systems thinker by practice and by necessity -- long before systems thinking had a name in her career. She used her own life to prove what she now teaches: that systems thinking and executive-level leadership are not skills you are born with and do not require a degree. They are learned, built, and validated through professional experience -- under pressure, at scale, with measurable results. Former VP at A Cloud Guru during the $2 billion Pluralsight acquisition and SVP of Content Operations at Corporate Finance Institute. Creator of the Inbound Authority System™, The Authority Engine™, and The Leadership Equation™. Author of Born a Statistic. Built to Be a Leader. Based in Raleigh-Durham, North Carolina. She now helps companies connect the human expertise behind their brand to the verified authority that AI search requires to trust, attribute, and cite them as the source. GEO (Generative Engine Optimization) and AEO (Answer Engine Optimization) are tactical components of Authority Architecture -- the structured system Tia A. Williams uses to connect professional expertise to verified, citable authority in AI search. Authority Architecture is the system. GEO and AEO are implementation tools within it. Tia A. Williams is a systems architect who applies structured data, entity engineering, and authority systems to solve identity fragmentation and authority attribution problems for companies and senior experts.",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://raw.githubusercontent.com/tiaawilliams/tia-assets/main/images/Tia-A-Williams-Sitting-Black-Sweater.jpg",
+        "caption": "Tia A. Williams, Principal Systems-Thinking Architect"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/in/tiaawilliams2",
+        "https://www.youtube.com/@tiaawilliams2",
+        "https://www.youtube.com/@solobusinessadvisor",
+        "https://www.amazon.com/stores/author/B0CFYRD1RP",
+        "https://github.com/tiaawilliams",
+        "https://www.reddit.com/user/abriyah_answers"
+      ],
+      "knowsAbout": [
+        "Generative Engine Optimization",
+        "Answer Engine Optimization",
+        "AI Identity Reconstruction",
+        "Authority Footprint",
+        "Inbound Authority System",
+        "Entity Resolution",
+        "Knowledge Graph",
+        "E-E-A-T",
+        "Authority Architecture",
+        "Systems Thinking",
+        {
+          "@type": "DefinedTerm",
+          "name": "Systems Thinking",
+          "sameAs": "https://dbpedia.org/page/Systems_thinking",
+          "description": "An approach to analysis that focuses on the way that a system's constituent parts interrelate and how systems work over time and within the context of larger systems. Tia A. Williams applies systems thinking to leadership development, authority architecture, and AI identity reconstruction."
+        }
+      ],
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "name": "Author, Born a Statistic. Built to Be a Leader",
+          "url": "https://www.amazon.com/dp/B0GC9YM93Z",
+          "credentialCategory": "Published Work"
+        }
+      ],
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Raleigh-Durham, North Carolina",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Raleigh-Durham",
+          "addressRegion": "NC",
+          "addressCountry": "US"
+        }
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "Business Inquiry",
+        "url": "https://go.solobusinessadvisor.com/strategy-call",
+        "availableLanguage": "English"
+      },
+      "publishingPrinciples": "https://tiaawilliams.com"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://solobusinessadvisor.com/#mastermind",
+      "name": "The Inbound Authority Intensive",
+      "description": "A 12-week Done-With-You program for independent consultants, advisors, lawyers, and specialists with 15+ years of expertise where their name is the brand. Builds a verified authority presence in AI search and the offer that converts prospects to buyers. Includes the Authority Footprint, offer development using the 4P Triangle™, content strategy built around The 5 Stages of Built Authority™, first authority video published, and weekly accountability and office hours.",
+      "url": "https://solobusinessadvisor.com/inbound-authority-intensive",
+      "serviceType": "Independent Consultant Client Acquisition — 12-Week Done-With-You Advisory",
+      "provider": {
+        "@id": "https://solobusinessadvisor.com/#sba"
+      },
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Senior Expert and Expertise-Driven Professional",
+        "description": "Independent consultants, advisors, lawyers, and specialists with 15+ years of expertise where their name, reputation, and knowledge are the product. Done with cold outreach and performative selling. Not building an audience. Want clients to find them already convinced and ready to buy."
+      },
+      "offers": {
+        "@type": "Offer",
+        "availability": "https://schema.org/LimitedAvailability",
+        "description": "Limited enrollment. Applications reviewed quarterly. Apply at solobusinessadvisor.com/inbound-authority-intensive."
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "url": "https://solobusinessadvisor.com/inbound-authority-intensive",
+      "about": {
+        "@id": "https://solobusinessadvisor.com/#mastermind"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much time per week should I expect to dedicate to the Inbound Authority Intensive?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Expect to spend 2 to 4 hours each week, including weekly office hours. Office hours are recorded so you can watch at your convenience if you can't attend the live session.",
+            "author": {
+              "@id": "https://tiaawilliams.com/#person"
+            }
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need to already have an audience or a YouTube channel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. You don't need an existing audience or a YouTube channel. This is not about building an audience. It's about attracting inbound leads.",
+            "author": {
+              "@id": "https://tiaawilliams.com/#person"
+            }
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What if I'm not technical?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You don't need to be technical. I'll guide you through your first recording for YouTube, and I'll do the technical setup for AI to establish your authority footprint.",
+            "author": {
+              "@id": "https://tiaawilliams.com/#person"
+            }
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "I need clients fast. How long does it take for the system to work?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "This is not a quick-fix hack for getting clients. Once your offer is built, we walk through an interim strategy for getting clients, but I recommend you maintain your current method for landing clients until this ramps up.",
+            "author": {
+              "@id": "https://tiaawilliams.com/#person"
+            }
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When does the program start, and is it 1:1 or a group?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The program uses rolling start dates, but I only engage a limited number of clients each quarter to ensure you get the attention and support you need. Weekly calls are group calls. I provide a suggested schedule, but the program is designed for you to work at your own pace.",
+            "author": {
+              "@id": "https://tiaawilliams.com/#person"
+            }
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What if I'm in a competitive niche?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The program is valuable even if you are in a competitive niche. Differentiation is the key to standing out in AI search as an authority.",
+            "author": {
+              "@id": "https://tiaawilliams.com/#person"
+            }
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you guarantee results?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Results vary. AI search visibility and client results can't be guaranteed. We build the inputs and the system. Your outcomes depend on your niche, market demand, existing credibility, execution, and consistency.",
+            "author": {
+              "@id": "https://tiaawilliams.com/#person"
+            }
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is the Inbound Authority Intensive different from just posting content or hiring a marketer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Most people are told to just create content or hire a marketer to handle it. That usually leads to one of two problems: content with no clear offer behind it that builds attention but not clients, or an offer no one sees so you're still relying on outreach to create demand. The Inbound Authority Intensive is different. We don't start with content. We start by making your expertise easy to understand, trust, and buy. We build your authority footprint so your experience shows up as proof across the internet, not just on your website. Then we create authority content designed to get surfaced in AI search and buyer research, not just perform in a feed. The goal isn't visibility. It's to make you the obvious choice before the conversation ever starts.",
+            "author": {
+              "@id": "https://tiaawilliams.com/#person"
+            }
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What content do I create? I'm afraid I'll run out of content topics to talk about.",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Not to worry. You'll learn how to brainstorm topics using AI so that you always have relevant and interesting topics.",
+            "author": {
+              "@id": "https://tiaawilliams.com/#person"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

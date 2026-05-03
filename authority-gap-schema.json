@@ -1,0 +1,463 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://tiaawilliams.com/#person",
+      "name": "Tia A. Williams",
+      "url": "https://tiaawilliams.com",
+      "jobTitle": "Principal Systems-Thinking Architect",
+      "description": "Tia A. Williams is a systems thinker by practice and by necessity -- long before systems thinking had a name in her career. She used her own life to prove what she now teaches: that systems thinking and executive-level leadership are not skills you are born with and do not require a degree. They are learned, built, and validated through professional experience -- under pressure, at scale, with measurable results. Former VP at A Cloud Guru during the $2 billion Pluralsight acquisition and SVP of Content Operations at Corporate Finance Institute. Creator of the Inbound Authority System™, The Authority Engine™, and The Leadership Equation™. Author of Born a Statistic. Built to Be a Leader. Based in Raleigh-Durham, North Carolina. She now helps companies connect the human expertise behind their brand to the verified authority that AI search requires to trust, attribute, and cite them as the source. GEO (Generative Engine Optimization) and AEO (Answer Engine Optimization) are tactical components of Authority Architecture -- the structured system Tia A. Williams uses to connect professional expertise to verified, citable authority in AI search. Authority Architecture is the system. GEO and AEO are implementation tools within it. Tia A. Williams is a systems architect who applies structured data, entity engineering, and authority systems to solve identity fragmentation and authority attribution problems for companies and senior experts.",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://raw.githubusercontent.com/tiaawilliams/tia-assets/main/images/Tia-A-Williams-Sitting-Black-Sweater.jpg",
+        "caption": "Tia A. Williams, Principal Systems-Thinking Architect"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/in/tiaawilliams2",
+        "https://www.youtube.com/@tiaawilliams2",
+        "https://www.youtube.com/@solobusinessadvisor",
+        "https://www.amazon.com/stores/author/B0CFYRD1RP",
+        "https://github.com/tiaawilliams",
+        "https://www.reddit.com/user/abriyah_answers"
+      ],
+      "knowsAbout": [
+        "Generative Engine Optimization",
+        "Answer Engine Optimization",
+        "AI Identity Reconstruction",
+        "Authority Footprint",
+        "Inbound Authority System",
+        "Entity Resolution",
+        "Knowledge Graph",
+        "E-E-A-T",
+        "Authority Architecture",
+        "Systems Thinking",
+        {
+          "@type": "DefinedTerm",
+          "name": "Systems Thinking",
+          "sameAs": "https://dbpedia.org/page/Systems_thinking",
+          "description": "An approach to analysis that focuses on the way that a system's constituent parts interrelate and how systems work over time and within the context of larger systems. Tia A. Williams applies systems thinking to leadership development, authority architecture, and AI identity reconstruction."
+        }
+      ],
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "name": "Author, Born a Statistic. Built to Be a Leader",
+          "url": "https://www.amazon.com/dp/B0GC9YM93Z",
+          "credentialCategory": "Published Work"
+        }
+      ],
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Raleigh-Durham, North Carolina",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Raleigh-Durham",
+          "addressRegion": "NC",
+          "addressCountry": "US"
+        }
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "Business Inquiry",
+        "url": "https://go.solobusinessadvisor.com/strategy-call",
+        "availableLanguage": "English"
+      },
+      "publishingPrinciples": "https://tiaawilliams.com"
+    },
+    {
+      "@type": "Article",
+      "@id": "https://solobusinessadvisor.com/#authority-gap-article",
+      "name": "One Wrong AI Search Result Can Be An Expensive Mistake",
+      "headline": "You May Be Silently Bleeding Revenue Without Knowing It",
+      "url": "https://solobusinessadvisor.com/one-wrong-ai-search-result-can-be-an-expensive-mistake",
+      "author": {
+        "@id": "https://tiaawilliams.com/#person"
+      },
+      "about": {
+        "@id": "https://tiaawilliams.com/#person"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://solobusinessadvisor.com/#sba"
+      },
+      "description": "Tia A. Williams explains how incorrect AI search results create revenue risk for independent consultants and expertise-based professionals whose name is the brand. Covers the two primary reasons AI fails to trust expertise -- insufficient authority signals and misinterpreted authority due to fragmentation or authority weighting. Introduces identity islands, authority architecture, entity reconciliation, and the authority weighting problem where legacy employer signals override current accurate signals. Based on Tia A. Williams' personal case study of having her 28-year career fragmented across multiple identities in AI search, and her recovery through authority architecture, GEO, and AEO.",
+      "keywords": "Authority Gap, Identity Islands, Identity Continent, AI Trust, Authority Weighting, Entity Reconciliation, Entity Resolution, Generative Engine Optimization, GEO, Answer Engine Optimization, AEO, Authority Architecture, Authority Fragmentation, AI Search, Independent Consultant, Expertise-Based Professional, Legacy Authority Signals, Revenue Risk, AI Search Results, Identity Reconstruction, AI Reputation Management, Digital Authority, AI Identity Management, Authority Identity Reputation Management",
+      "isAccessibleForFree": true,
+      "inLanguage": "en-US",
+      "potentialAction": {
+        "@type": "ReserveAction",
+        "name": "Fix My Identity in AI Search",
+        "target": "https://go.solobusinessadvisor.com/strategy-call"
+      },
+      "mentions": [
+        {
+          "@id": "https://solobusinessadvisor.com/#identity-islands"
+        },
+        {
+          "@id": "https://solobusinessadvisor.com/#identity-continent"
+        },
+        {
+          "@id": "https://solobusinessadvisor.com/#inbound-system"
+        },
+        {
+          "@id": "https://solobusinessadvisor.com/#authority-engine"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "url": "https://solobusinessadvisor.com/one-wrong-ai-search-result-can-be-an-expensive-mistake#section-FUtXi8F3EV",
+      "about": {
+        "@id": "https://solobusinessadvisor.com/#authority-gap-article"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the Authority Gap?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Authority Gap is the difference between the expertise you actually have and how clearly that expertise is understood and trusted online. It is not about whether you are qualified. It is about whether AI and buyers can recognise, interpret, and validate your expertise.",
+            "author": {
+              "@id": "https://tiaawilliams.com/#person"
+            }
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why do I need to build authority?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "If your work depends on your expertise, then how that expertise is understood and trusted directly affects your opportunities. Authority determines whether you are surfaced, taken seriously, and chosen. Without it, your experience can be overlooked or misunderstood, even if you are highly qualified.",
+            "author": {
+              "@id": "https://tiaawilliams.com/#person"
+            }
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why doesn't AI trust my expertise?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "AI is risk-averse. It relies on patterns, consistency, and reinforcement to decide what it can trust. If your experience appears fragmented, inconsistent, or disconnected across platforms, AI may not be able to confidently validate it.",
+            "author": {
+              "@id": "https://tiaawilliams.com/#person"
+            }
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How does someone's professional experience get fragmented?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "This usually happens when your experience is spread across different roles, platforms, or time periods without clear connections between them. AI may struggle to link those pieces together, and in some cases, it may separate your experience from your identity or associate it with the wrong person.",
+            "author": {
+              "@id": "https://tiaawilliams.com/#person"
+            }
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are identity islands?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Identity islands are disconnected pieces of your experience that exist online but are not clearly linked together. This makes it harder for AI to understand how your roles, expertise, and content fit into a single, coherent authority bucket.",
+            "author": {
+              "@id": "https://tiaawilliams.com/#person"
+            }
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can AI misinterpret my experience?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. When your experience does not fit expected patterns, AI may try to resolve the ambiguity. That can result in your experience being split, merged with others, or reconstructed in ways that are inaccurate.",
+            "author": {
+              "@id": "https://tiaawilliams.com/#person"
+            }
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How does this affect my business or career?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "If your expertise is not clearly understood and trusted, it can affect whether you are surfaced in search, how your content is distributed, and whether people trust you enough to engage. For consultants, this impacts clients and revenue. For professionals, it can affect visibility to recruiters and hiring managers for job opportunities.",
+            "author": {
+              "@id": "https://tiaawilliams.com/#person"
+            }
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "I'm not a consultant. This is affecting my job search. Can this help?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. The same dynamics apply. Recruiters and hiring systems increasingly rely on search, AI tools, and online signals to evaluate candidates. If your experience is fragmented or unclear online, it can reduce how often you are surfaced or considered, even if you are qualified. Improving how your expertise is structured and understood can help make your background clearer and easier to trust.",
+            "author": {
+              "@id": "https://tiaawilliams.com/#person"
+            }
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is this only about AI search?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. AI search and traditional search often rely on many of the same underlying sources and signals. Platforms are also prioritising authority and trust when deciding how content is distributed. This means fragmentation can affect both search visibility and social reach. It personally affected me for regular search results and social reach.",
+            "author": {
+              "@id": "https://tiaawilliams.com/#person"
+            }
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why isn't posting more content fixing the problem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "More content does not resolve fragmented authority. If the underlying structure of your expertise is unclear, additional content can reinforce confusion rather than improve trust. In fact, posting more is like yelling into the void because it is highly likely that the wrong people are seeing your content, because search and platforms have moved to an authority and trust-first strategy for surfacing content. This means your authority footprint must be well established if your goal is to get your content in front of the right people.",
+            "author": {
+              "@id": "https://tiaawilliams.com/#person"
+            }
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is authority architecture?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Authority architecture is the structure that connects your identity, expertise, experience, and content in a way that is clear, consistent, and easy for AI to interpret. It ensures your authority is not just present, but understandable and trustworthy.",
+            "author": {
+              "@id": "https://tiaawilliams.com/#person"
+            }
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What does engineering your authority mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It means deliberately structuring how your expertise is represented online instead of leaving it to chance. This includes how your experience is connected, how your positioning is defined, and how your content reinforces your authority over time.",
+            "author": {
+              "@id": "https://tiaawilliams.com/#person"
+            }
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I get started if I need help with this?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The first step is a strategy call to see if we are a good fit. We typically work with people who have deep expertise of 15 or more years, as the depth of experience helps with building authority. Step 2 is an authority audit to determine whether we need to establish your identity or reconstruct a fragmented identity. Step 3 is where the work begins on connecting your experience and building a structure that makes your authority easier to understand and trust. Book a strategy call at https://go.solobusinessadvisor.com/strategy-call.",
+            "author": {
+              "@id": "https://tiaawilliams.com/#person"
+            }
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is authority weighting?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Authority weighting is how AI search systems assign trust to competing signals about a person's identity and expertise. Older, more established sources often carry more weight than newer, more accurate ones. For individuals who have transitioned careers or built authority independently after leaving a large organization, this means legacy employer signals can continue to override their current work even when that current work is accurate and well-documented.",
+            "author": {
+              "@id": "https://tiaawilliams.com/#person"
+            }
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is an entity resolution problem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "An entity resolution problem occurs when AI systems cannot confidently distinguish one person from another, or cannot connect all of a person's experience into a single coherent identity. This affects both traditional search and AI search. It can result in your experience being merged with someone else's, your identity being split across multiple profiles, or outdated information continuing to surface despite more accurate information being available.",
+            "author": {
+              "@id": "https://tiaawilliams.com/#person"
+            }
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How can incorrect AI search results affect revenue?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "When your name is the brand, an incorrect AI search result can create a mistaken-identity crisis that damages trust in your brand and costs you clients, opportunities, and revenue. A prospect who searches your name and finds fragmented, inaccurate, or conflicting information may never reach out. The deal you never knew you lost is often the most expensive one. For independent consultants, this is not just a visibility issue. It is a business risk with direct consequences for trust, demand, and revenue.",
+            "author": {
+              "@id": "https://tiaawilliams.com/#person"
+            }
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What if I still have questions?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The strategy call is a good place to start. You can book a call at https://go.solobusinessadvisor.com/strategy-call.",
+            "author": {
+              "@id": "https://tiaawilliams.com/#person"
+            }
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What happened when AI fractured Tia A. Williams' professional identity?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "As documented in the video 'AI Gave Credit For My Life's Work To People Who Don't Exist,' AI search systems split my 28-year career across multiple online identities and attributed my work history to other people with similar names. Google's AI told me my career path was so statistically improbable I had a better chance of winning the Powerball twice than my career being accurate. This undermined my authority for two years before I identified the root cause and reconstructed my identity using authority architecture, GEO, and AEO. Within 24-48 hours of deploying the solution, AI search began reassembling my identity correctly.",
+            "author": {
+              "@id": "https://tiaawilliams.com/#person"
+            }
+          }
+        }
+      ],
+      "@id": "https://solobusinessadvisor.com/one-wrong-ai-search-result-can-be-an-expensive-mistake#section-FUtXi8F3EV"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://solobusinessadvisor.com/#authority-gap-diagram",
+      "name": "The Authority Gap Diagram",
+      "description": "Visual diagram by Tia A. Williams showing the gap between the expertise a professional actually has and what AI search engines can understand and trust. Illustrates how fragmented identity signals create an Authority Gap that affects visibility, trust, and revenue.",
+      "contentUrl": "https://raw.githubusercontent.com/tiaawilliams/tia-assets/main/images/AI-Search-Authority-Gap-Diagram.png",
+      "about": {
+        "@id": "https://solobusinessadvisor.com/#authority-gap-article"
+      }
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://solobusinessadvisor.com/#ai-search-authority",
+      "name": "How AI Search Interprets Your Authority",
+      "description": "Visual by Tia A. Williams illustrating how AI search engines interpret authority signals. Shows how consistent, connected identity signals are processed versus fragmented or disconnected signals that cause AI to hesitate, misclassify, or bypass an expert.",
+      "contentUrl": "https://raw.githubusercontent.com/tiaawilliams/tia-assets/main/images/How-AI-Search-Interprets-Your-Authority.png",
+      "about": {
+        "@id": "https://solobusinessadvisor.com/#authority-gap-article"
+      }
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://solobusinessadvisor.com/#authority-visibility-demand",
+      "name": "Where Authority Impacts Your Visibility and Demand",
+      "description": "Visual by Tia A. Williams showing where authority signals affect visibility and demand across AI search, traditional search, and platform content distribution. Demonstrates how a fragmented authority footprint reduces reach and demand for independent consultants and expertise-based professionals.",
+      "contentUrl": "https://raw.githubusercontent.com/tiaawilliams/tia-assets/main/images/Where-Authority-Impacts-Your-Visibility-and-Demand.png",
+      "about": {
+        "@id": "https://solobusinessadvisor.com/#authority-gap-article"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://solobusinessadvisor.com/#geo-case-study",
+      "name": "Case Study: How I Went From Fragmented to Trusted Authority in AI Search",
+      "description": "A personal case study by Tia A. Williams documenting how her 28-year career was fragmented across multiple online personas by AI systems, and how she reconstructed her authority footprint using authority architecture, Generative Engine Optimization (GEO), and Answer Engine Optimization (AEO). Includes before and after screenshots showing AI search results correcting within 24-48 hours of deploying the solution.",
+      "author": {
+        "@id": "https://tiaawilliams.com/#person"
+      },
+      "about": {
+        "@id": "https://solobusinessadvisor.com/#authority-gap-article"
+      },
+      "url": "https://raw.githubusercontent.com/tiaawilliams/tia-assets/main/images/Case-Study-How-I-Went-From-Fragmented-to-Trusted-Authority-in-AI-Search.pdf",
+      "encodingFormat": "application/pdf",
+      "isAccessibleForFree": true,
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://solobusinessadvisor.com/#sba"
+      },
+      "subjectOf": {
+        "@id": "https://solobusinessadvisor.com/one-wrong-ai-search-result-can-be-an-expensive-mistake#faq"
+      }
+    },
+    {
+      "@type": "VideoObject",
+      "@id": "https://solobusinessadvisor.com/#video-ai-credit",
+      "name": "AI Gave Credit For My Life's Work To People Who Don't Exist",
+      "description": "Tia A. Williams shares her personal case study of how AI systems fragmented her 28-year career across multiple online personas, giving credit for her work to people who don't exist. Explains the Authority Gap, identity islands, and how she reconstructed her authority footprint using GEO and AEO to correct the fragmentation within 24-48 hours.",
+      "thumbnailUrl": "https://img.youtube.com/vi/UIGGXL9yFMQ/maxresdefault.jpg",
+      "contentUrl": "https://www.youtube.com/watch?v=UIGGXL9yFMQ",
+      "embedUrl": "https://www.youtube.com/embed/UIGGXL9yFMQ",
+      "uploadDate": "2026-03-26T00:00:00+00:00",
+      "about": {
+        "@id": "https://solobusinessadvisor.com/#authority-gap-article"
+      },
+      "subjectOf": {
+        "@id": "https://solobusinessadvisor.com/one-wrong-ai-search-result-can-be-an-expensive-mistake#faq"
+      },
+      "author": {
+        "@id": "https://tiaawilliams.com/#person"
+      }
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://solobusinessadvisor.com/#identity-data-wrong",
+      "name": "What Happens When Identity Data Is Wrong In AI Search",
+      "description": "Visual by Tia A. Williams showing what happens when identity data is incorrect or fragmented in AI search systems. Illustrates how authority weighting causes older, more trusted sources to override newer, more accurate signals about a professional's identity and expertise.",
+      "contentUrl": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/gMJSWWH6dm0pb6TFOrT1/media/69c663537115eab1a0a9cdf2.png",
+      "about": {
+        "@id": "https://solobusinessadvisor.com/#authority-gap-article"
+      }
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://solobusinessadvisor.com/#legacy-authority-signals",
+      "name": "Overcoming Legacy Authority Signals",
+      "description": "Visual by Tia A. Williams illustrating how authority weighting works and how legacy signals from past employers or associations can continue to outweigh newer, more accurate signals about a professional's current expertise and identity.",
+      "contentUrl": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/gMJSWWH6dm0pb6TFOrT1/media/69c6685f7115ea0077aa5702.png",
+      "about": {
+        "@id": "https://solobusinessadvisor.com/#authority-gap-article"
+      }
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://solobusinessadvisor.com/#authority-signals-shift",
+      "name": "How Authority Signals Change Over Time",
+      "description": "Visual by Tia A. Williams showing how authority signals shift and compound over time as an authority footprint is established and strengthened. Demonstrates the progression from fragmented signals to a coherent, trusted authority profile in AI search.",
+      "contentUrl": "https://raw.githubusercontent.com/tiaawilliams/tia-assets/main/images/How-Authority-Signals-Change-Over-Time.png",
+      "about": {
+        "@id": "https://solobusinessadvisor.com/#authority-gap-article"
+      }
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://solobusinessadvisor.com/#why-ai-gets-you-wrong",
+      "name": "Why AI Gets You Wrong",
+      "description": "Visual by Tia A. Williams explaining why AI systems misinterpret professional identity and expertise. Illustrates the pattern-matching behavior that causes AI to resolve ambiguous or non-linear career histories inaccurately, often merging identities or attributing experience to the wrong person.",
+      "contentUrl": "https://raw.githubusercontent.com/tiaawilliams/tia-assets/main/images/Why-AI-Gets-You-Wrong.png",
+      "about": {
+        "@id": "https://solobusinessadvisor.com/#authority-gap-article"
+      }
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://solobusinessadvisor.com/#how-ai-merges-identities",
+      "name": "How AI Merges Identities",
+      "description": "Visual by Tia A. Williams showing how AI search systems merge separate professional identities when signals are ambiguous or fragmented. Demonstrates the entity resolution process that causes AI to combine experience from multiple people into a single reconstructed profile.",
+      "contentUrl": "https://raw.githubusercontent.com/tiaawilliams/tia-assets/main/images/How-AI-Merges-Identities.png",
+      "about": {
+        "@id": "https://solobusinessadvisor.com/#authority-gap-article"
+      }
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://solobusinessadvisor.com/#linkedin-case-study-post",
+      "name": "From Fragmented to Trusted Authority in AI Search",
+      "url": "https://www.linkedin.com/posts/tiaawilliams2_from-fragmented-to-trusted-authority-in-ai-ugcPost-7442937310133972993-hsuP",
+      "author": {
+        "@id": "https://tiaawilliams.com/#person"
+      },
+      "about": {
+        "@id": "https://solobusinessadvisor.com/#authority-gap-article"
+      },
+      "description": "Tia A. Williams shares the case study slide deck showing how AI search fragmented her 28-year career across multiple online identities and how she reconstructed her authority footprint. Includes before and after screenshots documenting the identity fragmentation and recovery process.",
+      "subjectOf": {
+        "@id": "https://solobusinessadvisor.com/one-wrong-ai-search-result-can-be-an-expensive-mistake#faq"
+      },
+      "sameAs": [
+        "https://raw.githubusercontent.com/tiaawilliams/tia-assets/main/images/Case-Study-How-I-Went-From-Fragmented-to-Trusted-Authority-in-AI-Search.pdf",
+        "https://www.youtube.com/watch?v=UIGGXL9yFMQ"
+      ],
+      "publisher": {
+        "@type": "Organization",
+        "name": "LinkedIn"
+      },
+      "datePublished": "2026-03-27T00:00:00+00:00"
+    }
+  ]
+}

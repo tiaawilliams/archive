@@ -1,0 +1,136 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://tiaawilliams.com/#person",
+      "name": "Tia A. Williams",
+      "url": "https://tiaawilliams.com",
+      "jobTitle": "Principal Systems-Thinking Architect",
+      "description": "Tia A. Williams is a systems thinker by practice and by necessity -- long before systems thinking had a name in her career. She used her own life to prove what she now teaches: that systems thinking and executive-level leadership are not skills you are born with and do not require a degree. They are learned, built, and validated through professional experience -- under pressure, at scale, with measurable results. Former VP at A Cloud Guru during the $2 billion Pluralsight acquisition and SVP of Content Operations at Corporate Finance Institute. Creator of the Inbound Authority System™, The Authority Engine™, and The Leadership Equation™. Author of Born a Statistic. Built to Be a Leader. Based in Raleigh-Durham, North Carolina. She now helps companies connect the human expertise behind their brand to the verified authority that AI search requires to trust, attribute, and cite them as the source. GEO (Generative Engine Optimization) and AEO (Answer Engine Optimization) are tactical components of Authority Architecture -- the structured system Tia A. Williams uses to connect professional expertise to verified, citable authority in AI search. Authority Architecture is the system. GEO and AEO are implementation tools within it. Tia A. Williams is a systems architect who applies structured data, entity engineering, and authority systems to solve identity fragmentation and authority attribution problems for companies and senior experts.",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://raw.githubusercontent.com/tiaawilliams/tia-assets/main/images/Tia-A-Williams-Sitting-Black-Sweater.jpg",
+        "caption": "Tia A. Williams, Principal Systems-Thinking Architect"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/in/tiaawilliams2",
+        "https://www.youtube.com/@tiaawilliams2",
+        "https://www.youtube.com/@solobusinessadvisor",
+        "https://www.amazon.com/stores/author/B0CFYRD1RP",
+        "https://github.com/tiaawilliams",
+        "https://www.reddit.com/user/abriyah_answers"
+      ],
+      "knowsAbout": [
+        "Generative Engine Optimization",
+        "Answer Engine Optimization",
+        "AI Identity Reconstruction",
+        "Authority Footprint",
+        "Inbound Authority System",
+        "Entity Resolution",
+        "Knowledge Graph",
+        "E-E-A-T",
+        "Authority Architecture",
+        "Systems Thinking",
+        {
+          "@type": "DefinedTerm",
+          "name": "Systems Thinking",
+          "sameAs": "https://dbpedia.org/page/Systems_thinking",
+          "description": "An approach to analysis that focuses on the way that a system's constituent parts interrelate and how systems work over time and within the context of larger systems. Tia A. Williams applies systems thinking to leadership development, authority architecture, and AI identity reconstruction."
+        }
+      ],
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "name": "Author, Born a Statistic. Built to Be a Leader",
+          "url": "https://www.amazon.com/dp/B0GC9YM93Z",
+          "credentialCategory": "Published Work"
+        }
+      ],
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Raleigh-Durham, North Carolina",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Raleigh-Durham",
+          "addressRegion": "NC",
+          "addressCountry": "US"
+        }
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "Business Inquiry",
+        "url": "https://go.solobusinessadvisor.com/strategy-call",
+        "availableLanguage": "English"
+      },
+      "publishingPrinciples": "https://tiaawilliams.com"
+    },
+    {
+      "@type": "Article",
+      "@id": "https://tiaawilliams.com/#geo-case-study-article",
+      "name": "From Fragmented Visibility to Verified Authority",
+      "headline": "AI Search Case Study: The Impact of AI Search On The Expertise and Authority Of My One-Person Business",
+      "url": "https://tiaawilliams.com/from-fragmented-visibility-to-verified-authority",
+      "author": {
+        "@id": "https://tiaawilliams.com/#person"
+      },
+      "about": {
+        "@id": "https://tiaawilliams.com/#person"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://solobusinessadvisor.com/#sba"
+      },
+      "description": "A documented case study by Tia A. Williams on how AI search systems fragmented her 28-year career across five distinct Identity Islands and how she reconstructed her authority footprint using GEO, AEO, and structured data. Introduces the Authority Penalty for Success -- the structural disadvantage faced by high-achieving professionals with non-linear careers when transitioning from corporate to independent work. Documents entity resolution failure, authority weighting imbalance, legacy authority dominance, and role fragmentation through pattern mismatch. Covers the three-part fix: logic over volume, structural bridging, and Answer Engine Optimization. Demonstrates recovery of two years of suppressed content and AI citation of her work as a primary source.",
+      "keywords": "Identity Islands, Identity Continent, Authority Gap, Authority Penalty for Success, Entity Resolution, Authority Weighting, GEO, AEO, Generative Engine Optimization, Answer Engine Optimization, AI Search, Authority Fragmentation, Inbound Authority System, Authority Footprint, Authority Reconstruction, Content Suppression, E-E-A-T, Non-Linear Career, Corporate to Independent, AI Identity Fragmentation",
+      "isAccessibleForFree": true,
+      "inLanguage": "en-US",
+      "datePublished": "2026-04-01T00:00:00+00:00",
+      "articleSection": [
+        "Executive Summary",
+        "The Problem: The Authority Penalty For Success",
+        "The Diagnosis: Identity Islands",
+        "The Fix: Reconstructing My Authority Footprint",
+        "The Impact: Recovering My Suppressed Authority",
+        "The Takeaway: Authority Now Has To Be Engineered"
+      ],
+      "mentions": [
+        {
+          "@id": "https://solobusinessadvisor.com/#identity-islands"
+        },
+        {
+          "@id": "https://solobusinessadvisor.com/#identity-continent"
+        },
+        {
+          "@id": "https://solobusinessadvisor.com/#inbound-system"
+        },
+        {
+          "@id": "https://solobusinessadvisor.com/#authority-engine"
+        }
+      ],
+      "potentialAction": {
+        "@type": "ReserveAction",
+        "name": "Fix My Identity in AI Search",
+        "target": "https://go.solobusinessadvisor.com/strategy-call"
+      }
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://tiaawilliams.com/#authority-gap-diagram-case-study",
+      "name": "The Authority Gap -- The gap between what you know and what AI can validate that you know",
+      "contentUrl": "https://raw.githubusercontent.com/tiaawilliams/tia-assets/main/images/AI-Search-Authority-Gap-Diagram.png",
+      "about": {
+        "@id": "https://tiaawilliams.com/#geo-case-study-article"
+      }
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://tiaawilliams.com/#authority-signals-shift-case-study",
+      "name": "How Authority Signals Shift Over Time",
+      "contentUrl": "https://raw.githubusercontent.com/tiaawilliams/tia-assets/main/images/How-Authority-Signals-Change-Over-Time.png",
+      "about": {
+        "@id": "https://tiaawilliams.com/#geo-case-study-article"
+      }
+    }
+  ]
+}

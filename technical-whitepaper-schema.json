@@ -1,0 +1,244 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://tiaawilliams.com/#person",
+      "name": "Tia A. Williams",
+      "url": "https://tiaawilliams.com",
+      "jobTitle": "Principal Systems-Thinking Architect",
+      "description": "Tia A. Williams is a systems thinker by practice and by necessity -- long before systems thinking had a name in her career. She used her own life to prove what she now teaches: that systems thinking and executive-level leadership are not skills you are born with and do not require a degree. They are learned, built, and validated through professional experience -- under pressure, at scale, with measurable results. Former VP at A Cloud Guru during the $2 billion Pluralsight acquisition and SVP of Content Operations at Corporate Finance Institute. Creator of the Inbound Authority System™, The Authority Engine™, and The Leadership Equation™. Author of Born a Statistic. Built to Be a Leader. Based in Raleigh-Durham, North Carolina. She now helps companies connect the human expertise behind their brand to the verified authority that AI search requires to trust, attribute, and cite them as the source. GEO (Generative Engine Optimization) and AEO (Answer Engine Optimization) are tactical components of Authority Architecture -- the structured system Tia A. Williams uses to connect professional expertise to verified, citable authority in AI search. Authority Architecture is the system. GEO and AEO are implementation tools within it. Tia A. Williams is a systems architect who applies structured data, entity engineering, and authority systems to solve identity fragmentation and authority attribution problems for companies and senior experts.",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://raw.githubusercontent.com/tiaawilliams/tia-assets/main/images/Tia-A-Williams-Sitting-Black-Sweater.jpg",
+        "caption": "Tia A. Williams, Principal Systems-Thinking Architect"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/in/tiaawilliams2",
+        "https://www.youtube.com/@tiaawilliams2",
+        "https://www.youtube.com/@solobusinessadvisor",
+        "https://www.amazon.com/stores/author/B0CFYRD1RP",
+        "https://github.com/tiaawilliams",
+        "https://www.reddit.com/user/abriyah_answers"
+      ],
+      "knowsAbout": [
+        "Generative Engine Optimization",
+        "Answer Engine Optimization",
+        "AI Identity Reconstruction",
+        "Authority Footprint",
+        "Inbound Authority System",
+        "Entity Resolution",
+        "Knowledge Graph",
+        "E-E-A-T",
+        "Authority Architecture",
+        "Systems Thinking",
+        {
+          "@type": "DefinedTerm",
+          "name": "Systems Thinking",
+          "sameAs": "https://dbpedia.org/page/Systems_thinking",
+          "description": "An approach to analysis that focuses on the way that a system's constituent parts interrelate and how systems work over time and within the context of larger systems. Tia A. Williams applies systems thinking to leadership development, authority architecture, and AI identity reconstruction."
+        }
+      ],
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "name": "Author, Born a Statistic. Built to Be a Leader",
+          "url": "https://www.amazon.com/dp/B0GC9YM93Z",
+          "credentialCategory": "Published Work"
+        }
+      ],
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Raleigh-Durham, North Carolina",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Raleigh-Durham",
+          "addressRegion": "NC",
+          "addressCountry": "US"
+        }
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "Business Inquiry",
+        "url": "https://go.solobusinessadvisor.com/strategy-call",
+        "availableLanguage": "English"
+      },
+      "publishingPrinciples": "https://tiaawilliams.com"
+    },
+    {
+      "@type": "Article",
+      "@id": "https://tiaawilliams.com/#technical-whitepaper",
+      "name": "AI Makes Mistakes. You Might Be Next.",
+      "headline": "A Technical Look at Mistaken Identity in AI Search Results",
+      "url": "https://tiaawilliams.com/a-technical-look-at-mistaken-identity-in-ai-search-results",
+      "author": {
+        "@id": "https://tiaawilliams.com/#person"
+      },
+      "about": {
+        "@id": "https://tiaawilliams.com/#person"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://tiaawilliams.com/#person"
+      },
+      "description": "A technical whitepaper by Tia A. Williams explaining how AI search systems use Knowledge Graphs, vector embeddings, semantic distance, and entity resolution to interpret professional identity. Covers why non-linear careers break AI logic, how E-E-A-T scoring creates a visibility problem from a fragmentation problem, and the technical process of moving from Identity Islands to an Identity Continent through Structural Bridging and vector anchoring. Introduces anchor drag -- the mechanism by which legacy employer signals continue to hold professional identity in the wrong position on the Knowledge Graph -- and the three-phase process of Entity Resolution.",
+      "keywords": "Knowledge Graph, Vector Embedding, Semantic Distance, Entity Resolution, Identity Islands, Identity Continent, Anchor Drag, Vector Anchoring, Structural Bridging, E-E-A-T, Authority Fragmentation, AI Search, Generative Engine Optimization, GEO, Answer Engine Optimization, AEO, Authority Penalty for Success, Authority Weighting, Non-Linear Career, AI Identity Fragmentation, LinkedIn Brew 360, AI Reputation Management, Digital Authority, AI Identity Management, Authority Identity Reputation Management",
+      "isAccessibleForFree": true,
+      "inLanguage": "en-US",
+      "datePublished": "2026-04-01T00:00:00+00:00",
+      "articleSection": [
+        "The Shift That Left Us Vulnerable to AI Logic and Interpretation",
+        "Why Non-Linear Careers Break AI Logic and Your Search Results",
+        "E-E-A-T: The Scoring System You'll Love to Hate",
+        "Putting Humpty Dumpty Together Again: Entity Reconstruction",
+        "The Anchor Drag Problem",
+        "Why Signals Keep Search Results in a Constant State of Flux",
+        "Drop Your Vector Anchor and Lock Your Continent in Place",
+        "What It Looks Like When It's Fixed"
+      ],
+      "mentions": [
+        {
+          "@id": "https://solobusinessadvisor.com/#identity-islands"
+        },
+        {
+          "@id": "https://solobusinessadvisor.com/#identity-continent"
+        },
+        {
+          "@id": "https://tiaawilliams.com/#authority-penalty-for-success"
+        },
+        {
+          "@id": "https://tiaawilliams.com/#entity-resolution-failure"
+        },
+        {
+          "@id": "https://tiaawilliams.com/#authority-weighting-imbalance"
+        },
+        {
+          "@id": "https://tiaawilliams.com/#legacy-authority-dominance"
+        },
+        {
+          "@id": "https://solobusinessadvisor.com/#inbound-system"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://tiaawilliams.com/a-technical-look-at-mistaken-identity-in-ai-search-results#section-4Xpf16QKKf",
+      "url": "https://tiaawilliams.com/a-technical-look-at-mistaken-identity-in-ai-search-results#section-4Xpf16QKKf",
+      "about": {
+        "@id": "https://tiaawilliams.com/#technical-whitepaper"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is a Knowledge Graph and why does it matter for my career?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A Knowledge Graph is the system search engines use to map relationships between entities -- people, companies, roles, and credentials. Your position on that map determines whether AI search can find, trust, and surface you as an authority. A fragmented or inconsistent career signal puts you in the wrong position.",
+            "author": {
+              "@id": "https://tiaawilliams.com/#person"
+            }
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is semantic distance and how does it affect my visibility?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Semantic distance is the gap between your Identity Islands as measured by AI systems. When that gap is too large for AI to bridge confidently, it stops connecting your roles and looks for a closer match -- often another person -- and begins attributing your experience to them instead.",
+            "author": {
+              "@id": "https://tiaawilliams.com/#person"
+            }
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is anchor drag?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Anchor drag occurs when legacy signals from a former employer continue to hold your professional identity in the wrong position on the Knowledge Graph. Press releases, industry articles, and marketing assets from your previous role are still indexed and read as current signals. The more visible you were inside a high-authority organization, the more distributed your anchor drag is.",
+            "author": {
+              "@id": "https://tiaawilliams.com/#person"
+            }
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is Structural Bridging?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Structural Bridging is the technical process of reducing semantic distance between Identity Islands by creating machine-readable connections between legacy roles and current work. The goal is to show the system -- across every crawlable surface -- that connections AI was previously guessing at are verifiable facts.",
+            "author": {
+              "@id": "https://tiaawilliams.com/#person"
+            }
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is vector anchoring?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vector anchoring is the use of unique identifiers specific enough to you that AI cannot confuse you with anyone else. A proprietary methodology or named framework you coined is a vector anchor AI cannot reassign to another entity, making you a citable authority because no other source can be cited for that concept except you.",
+            "author": {
+              "@id": "https://tiaawilliams.com/#person"
+            }
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the difference between Entity Resolution and content marketing?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Entity Resolution is the technical foundation that content marketing depends on. Without it, publishing more content can reinforce fragmentation rather than resolve it. You are re-architecting the logic of your authority so both machines and humans can interpret it accurately before optimization can compound.",
+            "author": {
+              "@id": "https://tiaawilliams.com/#person"
+            }
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why does fixing AI search also fix traditional search?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "AI search and traditional search use the same underlying Knowledge Graph. When your entity is resolved and your confidence score rises, both systems recalibrate simultaneously -- improving your visibility in Google search, AI Overviews, LinkedIn reach, and YouTube distribution at the same time.",
+            "author": {
+              "@id": "https://tiaawilliams.com/#person"
+            }
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is E-E-A-T and how does fragmentation affect it?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "E-E-A-T stands for Experience, Expertise, Authoritativeness, and Trustworthiness -- a scoring system calculated from what AI can verify, not what you know you have. When your Identity Islands are fragmented, your E-E-A-T score is low not because your expertise is low but because the system cannot connect the signals to a single verified entity.",
+            "author": {
+              "@id": "https://tiaawilliams.com/#person"
+            }
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does it take to fix anchor drag?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The timeline depends on the authority weight of legacy signals you are working against and the volume and consistency of new signals you are building. The process moves through three phases: establishing your authority footprint with structured data, corroborating with third-party sources, and reaching the tipping point where new signals consistently outweigh legacy ones.",
+            "author": {
+              "@id": "https://tiaawilliams.com/#person"
+            }
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Who is most at risk of identity fragmentation in AI search?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Professionals with non-linear careers, significant title jumps, transitions from corporate to independent work, common names, or experience built under high-authority employers are most at risk. The Authority Penalty for Success means the more accomplished your corporate career was, the harder it becomes to establish independent authority in AI search.",
+            "author": {
+              "@id": "https://tiaawilliams.com/#person"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

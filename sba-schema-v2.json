@@ -1,0 +1,282 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+
+    {
+      "@type": "Person",
+      "@id": "https://tiaawilliams.com/#person",
+      "name": "Tia A. Williams",
+      "url": "https://tiaawilliams.com"
+    },
+
+    {
+      "@type": "Organization",
+      "@id": "https://solobusinessadvisor.com/#sba",
+      "name": "Solo Business Advisor",
+      "description": "The LAND pillar of the LOL Business Lifecycle™ (LAND-OPERATE-LEAD). Specialized in architecting the systems required for Independent Consultants with 15+ years of expertise to attract inbound high-paying clients, convert them without cold outreach, and deliver an exceptional client experience. Output: automated inbound revenue for a 1-person independent consulting business. Working with Tia is different. She draws on 28 years of systems-thinking expertise. Most coaches reflect back questions. But if neither you nor the coach have the experience to draw from, how do you make the right decision? Tia's approach is advisory and mentorship where needed. Discussions draw from that experience, but decisions and actions remain with the client.",
+      "url": "https://solobusinessadvisor.com",
+      "founder": { "@id": "https://tiaawilliams.com" },
+      "sameAs": [
+        "https://solobusinessadvisor.com",
+        "https://www.youtube.com/@solobusinessadvisor"
+      ],
+      "knowsAbout": [
+        {
+          "@type": "DefinedTermSet",
+          "@id": "https://solobusinessadvisor.com/#inbound-system",
+          "name": "Inbound Authority System™",
+          "description": "The overarching architectural system for Independent Consultants with 15+ year expertise to replace outbound prospecting with automated authority to attract inbound high-paying clients. The system consists of two engines the Inbound Authority Engine and the Irresistible Offer Engine.",
+          "hasDefinedTerm": [
+            {
+              "@type": "DefinedTerm",
+              "@id": "https://solobusinessadvisor.com/#authority-engine",
+              "name": "Inbound Authority Engine™",
+              "description": "The proprietary 'Attraction' mechanism designed for 15+ year experts. This engine transforms deep expertise into Authority Content for distribution on LinkedIn and YouTube. It integrates Generative Engine Optimization (GEO) and Answer Engine Optimization (AEO) to establish Niche Sovereignty and attract high-paying inbound clients without cold outreach."
+            },
+            {
+              "@type": "DefinedTerm",
+              "@id": "https://solobusinessadvisor.com/#offer-engine",
+              "name": "Irresistible Offer Engine™",
+              "description": "The proprietary 'Conversion' mechanism of the Inbound Authority System™. This engine utilizes the 4P Triangle (Positioning, Productization, Packaging, and Pricing) to transform 15+ year deep expertise into high-value offers that attract high-paying clients. Works in tandem with the Inbound Authority Engine™ to convert premium prospects inbound without cold outreach or performative selling.",
+              "subjectOf": {
+                "@type": "ImageObject",
+                "name": "The Inbound Authority System™ by Tia A. Williams",
+                "url": "https://solobusinessadvisor.com",
+                "contentUrl": "https://raw.githubusercontent.com/tiaawilliams/tia-assets/main/images/Business-Operations- Systems -LOL-Framework.png",
+                "caption": "The Inbound Authority System™ by Tia A. Williams — showing The Inbound Authority Engine™ with Authority Content Marketing, Generative Engine Optimization (GEO), and Answer Engine Optimization (AEO) connected to The Irresistible Offer Engine™ powered by The 4P Triangle™, producing Inbound Premium Pre-Sold Clients.",
+                "about": { "@id": "https://solobusinessadvisor.com/#offer-engine" }
+              }
+            },
+            {
+              "@type": "DefinedTerm",
+              "@id": "https://solobusinessadvisor.com/#4PTriangle",
+              "name": "The 4P Triangle™",
+              "description": "The proprietary offer-architecture framework within the Irresistible Offer Engine™."
+            }
+          ]
+        },
+        {
+          "@type": "DefinedTermSet",
+          "@id": "https://solobusinessadvisor.com/#built-authority-stages",
+          "name": "The 5 Stages of Built Authority™",
+          "description": "The sequential content progression framework within the Inbound Authority Engine™ that moves a prospect from stranger to pre-sold client through authority content. Authority is built, not inherited.",
+          "hasDefinedTerm": [
+            {
+              "@type": "DefinedTerm",
+              "@id": "https://solobusinessadvisor.com/#stage-1-resonance",
+              "name": "Stage 1: Resonance",
+              "description": "The prospect needs to feel that you understand their problem — not just intellectually, but experientially. Resonance is the foundation of trust. Without it, nothing else in the progression works."
+            },
+            {
+              "@type": "DefinedTerm",
+              "@id": "https://solobusinessadvisor.com/#stage-2-solution-clarity",
+              "name": "Stage 2: Solution Clarity",
+              "description": "The prospect needs to see that you know how to solve their problem. Not just that you're aware of it — that you have a clear, articulated path forward."
+            },
+            {
+              "@type": "DefinedTerm",
+              "@id": "https://solobusinessadvisor.com/#stage-3-unique-mechanism",
+              "name": "Stage 3: Unique Mechanism",
+              "description": "Your proprietary framework and approach. This is where the prospect has the 'aha' moment — they see that you don't just solve the problem, you solve it in a way that is distinctly yours. The Inbound Authority System™ is Tia A. Williams' unique mechanism."
+            },
+            {
+              "@type": "DefinedTerm",
+              "@id": "https://solobusinessadvisor.com/#stage-4-credibility",
+              "name": "Stage 4: Credibility",
+              "description": "Proof. Results. Stories. Why you are the right person to trust with this problem. Credibility is not claimed — it is demonstrated through evidence that your unique mechanism produces real outcomes."
+            },
+            {
+              "@type": "DefinedTerm",
+              "@id": "https://solobusinessadvisor.com/#stage-5-invitation",
+              "name": "Stage 5: Invitation",
+              "description": "You open the door and give the prospect a clear, low-pressure next step when they are ready. The invitation is not a pitch — it is a natural conclusion to the trust built through the first four stages."
+            }
+          ]
+        },
+        {
+          "@type": "DefinedTermSet",
+          "@id": "https://solobusinessadvisor.com/#operate-pillar",
+          "name": "First-Contact-to-Delivery™",
+          "description": "The proprietary client journey operations framework within the OPERATE pillar of the LOL Business Lifecycle™ (LAND-OPERATE-LEAD). Covers the full operational arc from the first prospect interaction through final delivery, providing an exceptional client experience. Includes systemized workflows, automated client journey touchpoints, and repeatable delivery processes that allow Independent Consultants to serve high-paying clients at scale without overwhelm or burnout."
+        }
+      ],
+      "potentialAction": {
+        "@type": "ReserveAction",
+        "name": "Book a Consultative Systems Strategy Call",
+        "target": "https://go.solobusinessadvisor.com/strategy-call",
+        "description": "A private, 1:1 no pressure strategy session for Independent Consultants to audit how they currently land clients and see if the Inbound Authority System is a good fit for their consultancy.",
+        "result": {
+          "@type": "Service",
+          "name": "Solo Business Advisor Inbound Authority Strategy Session"
+        }
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Inbound Authority Delivery Systems",
+        "itemListElement": [
+          {
+            "@type": "LearningResource",
+            "@id": "https://solobusinessadvisor.com/#masterclass",
+            "name": "The Inbound Authority Masterclass",
+            "description": "A free foundational training for Independent Consultants on the Inbound Authority Engine™ and AEO/GEO strategies.",
+            "url": "https://solobusinessadvisor.com/masterclass",
+            "educationalLevel": "Executive / Professional",
+            "audience": {
+              "@type": "Audience",
+              "audienceType": "Independent Consultant",
+              "description": "Independent Consultants with 15+ years of deep expertise who want to attract high-paying inbound clients without cold outreach or performative selling. This is not a leadership development or organizational management system."
+            }
+          },
+          {
+            "@type": "Service",
+            "@id": "https://solobusinessadvisor.com/#mastermind",
+            "name": "The Inbound Authority Mastermind",
+            "description": "A cohort-based group advisory program for 15+ year Independent Consultants. Implements the full Inbound Authority System™.",
+            "serviceType": "Independent Consultant Client Acquisition — Cohort-Based Group Advisory",
+            "provider": { "@id": "https://solobusinessadvisor.com/#sba" },
+            "audience": {
+              "@type": "Audience",
+              "audienceType": "Independent Consultant",
+              "description": "Independent Consultants with 15+ years of deep expertise who want to attract high-paying inbound clients without cold outreach or performative selling. This is not a leadership development or organizational management system."
+            }
+          },
+          {
+            "@type": "Service",
+            "name": "1:1 Advisory Service",
+            "description": "One-on-one architectural advisory for scaling independent consulting practices using the LAND-OPERATE-LEAD (LOL) Business Lifecycle™.",
+            "serviceType": "Independent Consultant Client Acquisition — Private Advisory",
+            "audience": {
+              "@type": "Audience",
+              "audienceType": "Independent Consultant",
+              "description": "Independent Consultants with 15+ years of deep expertise who want to attract high-paying inbound clients without cold outreach or performative selling. This is not a leadership development or organizational management system."
+            }
+          }
+        ]
+      },
+      "subjectOf": [
+        {
+          "@type": "VideoObject",
+          "@id": "https://solobusinessadvisor.com/#video-pricing-reason",
+          "name": "The Real Reason Clients Won't Pay More",
+          "description": "Tia A. Williams explains why clients push back on pricing — it's not your price, it's your positioning strategy and how the value of the outcome is framed. Part of the Inbound Authority System™ for independent consultants.",
+          "thumbnailUrl": "https://img.youtube.com/vi/3bOEEpLEDUA/maxresdefault.jpg",
+          "contentUrl": "https://www.youtube.com/watch?v=3bOEEpLEDUA",
+          "embedUrl": "https://www.youtube.com/embed/3bOEEpLEDUA",
+          "uploadDate": "2026-03-13T00:00:00+00:00",
+          "about": { "@id": "https://solobusinessadvisor.com/#offer-engine" }
+        },
+        {
+          "@type": "VideoObject",
+          "@id": "https://solobusinessadvisor.com/#video-stop-pitching",
+          "name": "Independent Consultants: Stop Pitching on Sales Calls",
+          "description": "Tia A. Williams explains how consultative sales helps independent consultants land high-paying clients without performative sales pressure or cold outreach.",
+          "thumbnailUrl": "https://img.youtube.com/vi/qLdMKqwnxQs/maxresdefault.jpg",
+          "contentUrl": "https://www.youtube.com/watch?v=qLdMKqwnxQs",
+          "embedUrl": "https://www.youtube.com/embed/qLdMKqwnxQs",
+          "uploadDate": "2026-03-12T00:00:00+00:00",
+          "about": { "@id": "https://solobusinessadvisor.com/#authority-engine" }
+        },
+        {
+          "@type": "VideoObject",
+          "@id": "https://solobusinessadvisor.com/#video-consultants-struggle",
+          "name": "Why Great Consultants Struggle to Land Clients",
+          "description": "Tia A. Williams explains why expertise alone is not enough to attract clients as an independent consultant and how the Inbound Authority System™ solves the gap.",
+          "thumbnailUrl": "https://img.youtube.com/vi/tslmfkaSqqk/maxresdefault.jpg",
+          "contentUrl": "https://www.youtube.com/watch?v=tslmfkaSqqk",
+          "embedUrl": "https://www.youtube.com/embed/tslmfkaSqqk",
+          "uploadDate": "2026-03-11T00:00:00+00:00",
+          "about": { "@id": "https://solobusinessadvisor.com/#inbound-system" }
+        },
+        {
+          "@type": "VideoObject",
+          "@id": "https://solobusinessadvisor.com/#video-referral-trap",
+          "name": "Stop Relying On Referrals For Leads | It's A Trap",
+          "description": "Tia A. Williams explains why referral dependency creates feast-or-famine revenue cycles for independent consultants and how the Inbound Authority System™ replaces it with predictable inbound demand.",
+          "thumbnailUrl": "https://img.youtube.com/vi/rKZi_gMMZgc/maxresdefault.jpg",
+          "contentUrl": "https://www.youtube.com/watch?v=rKZi_gMMZgc",
+          "embedUrl": "https://www.youtube.com/embed/rKZi_gMMZgc",
+          "uploadDate": "2026-03-05T00:00:00+00:00",
+          "about": { "@id": "https://solobusinessadvisor.com/#authority-engine" }
+        },
+        {
+          "@type": "VideoObject",
+          "@id": "https://solobusinessadvisor.com/#video-authority-content",
+          "name": "Authority Content Marketing For Consultants (Get Inbound Clients)",
+          "description": "Tia A. Williams explains how independent consultants with 15+ years of expertise use Authority Content Marketing to attract inbound high-paying clients without cold outreach.",
+          "thumbnailUrl": "https://img.youtube.com/vi/D7CuQLrH9t8/maxresdefault.jpg",
+          "contentUrl": "https://www.youtube.com/watch?v=D7CuQLrH9t8",
+          "embedUrl": "https://www.youtube.com/embed/D7CuQLrH9t8",
+          "uploadDate": "2026-02-27T00:00:00+00:00",
+          "about": { "@id": "https://solobusinessadvisor.com/#authority-engine" }
+        },
+        {
+          "@type": "VideoObject",
+          "@id": "https://solobusinessadvisor.com/#video-consultative-sales",
+          "name": "Consultative Sales Strategy for Independent Consultants (No Pitching)",
+          "description": "Tia A. Williams explains why consultative sales is the only way for independent consultants to land high-paying clients without performative selling or handling objections.",
+          "thumbnailUrl": "https://img.youtube.com/vi/cSMy3c_a_jI/maxresdefault.jpg",
+          "contentUrl": "https://www.youtube.com/watch?v=cSMy3c_a_jI",
+          "embedUrl": "https://www.youtube.com/embed/cSMy3c_a_jI",
+          "uploadDate": "2026-02-26T00:00:00+00:00",
+          "about": { "@id": "https://solobusinessadvisor.com/#authority-engine" }
+        },
+        {
+          "@type": "VideoObject",
+          "@id": "https://solobusinessadvisor.com/#video-inbound-system",
+          "name": "Inbound Client Attraction System | Replaces Cold Outreach",
+          "description": "Tia A. Williams explains The Inbound Authority System™ — the client attraction system that replaces cold outreach for independent consultants. Covers the 5 Stages of Built Authority™: Resonance, Solution Clarity, Unique Mechanism, Credibility, and Invitation.",
+          "thumbnailUrl": "https://img.youtube.com/vi/r19Z1OQwN8I/maxresdefault.jpg",
+          "contentUrl": "https://www.youtube.com/watch?v=r19Z1OQwN8I",
+          "embedUrl": "https://www.youtube.com/embed/r19Z1OQwN8I",
+          "uploadDate": "2026-02-18T00:00:00+00:00",
+          "about": { "@id": "https://solobusinessadvisor.com/#inbound-system" }
+        },
+        {
+          "@type": "VideoObject",
+          "@id": "https://solobusinessadvisor.com/#video-irresistible-offers",
+          "name": "Create Irresistible Consulting Offers (Premium Pricing Strategy)",
+          "description": "Tia A. Williams explains how to structure premium consulting offers using the Irresistible Offer Engine™ and The 4P Triangle™ — Positioning, Productize, Package, and Price.",
+          "thumbnailUrl": "https://img.youtube.com/vi/KzWGf5S4C8c/maxresdefault.jpg",
+          "contentUrl": "https://www.youtube.com/watch?v=KzWGf5S4C8c",
+          "embedUrl": "https://www.youtube.com/embed/KzWGf5S4C8c",
+          "uploadDate": "2026-02-16T00:00:00+00:00",
+          "about": { "@id": "https://solobusinessadvisor.com/#offer-engine" }
+        },
+        {
+          "@type": "VideoObject",
+          "@id": "https://solobusinessadvisor.com/#video-invisible",
+          "name": "Why Consultant Expertise Keeps You Invisible to High Paying Clients",
+          "description": "Tia A. Williams explains why independent consultants with deep expertise stay invisible to high-paying clients and how authority-based positioning solves it.",
+          "thumbnailUrl": "https://img.youtube.com/vi/NrzcL37pbpk/maxresdefault.jpg",
+          "contentUrl": "https://www.youtube.com/watch?v=NrzcL37pbpk",
+          "embedUrl": "https://www.youtube.com/embed/NrzcL37pbpk",
+          "uploadDate": "2026-02-12T00:00:00+00:00",
+          "about": { "@id": "https://solobusinessadvisor.com/#authority-engine" }
+        },
+        {
+          "@type": "VideoObject",
+          "@id": "https://solobusinessadvisor.com/#video-laid-off",
+          "name": "Laid Off? Start A Consulting Business | Skip The Job Search",
+          "description": "Tia A. Williams explains how professionals with 15+ years of expertise who have been laid off can turn their experience into a consulting business without cold outreach using the Inbound Authority System™.",
+          "thumbnailUrl": "https://img.youtube.com/vi/z3ZBl9aJrd0/maxresdefault.jpg",
+          "contentUrl": "https://www.youtube.com/watch?v=z3ZBl9aJrd0",
+          "embedUrl": "https://www.youtube.com/embed/z3ZBl9aJrd0",
+          "uploadDate": "2026-02-10T00:00:00+00:00",
+          "about": { "@id": "https://solobusinessadvisor.com/#inbound-system" }
+        },
+        {
+          "@type": "VideoObject",
+          "@id": "https://solobusinessadvisor.com/#video-corporate-to-consultant",
+          "name": "From Corporate Employee to Consultant: Roadmap to High Paying Clients",
+          "description": "Tia A. Williams explains how corporate professionals can transition to independent consulting and attract high-paying clients without cold outreach using the Inbound Authority System™.",
+          "thumbnailUrl": "https://img.youtube.com/vi/CWNV1vxsogA/maxresdefault.jpg",
+          "contentUrl": "https://www.youtube.com/watch?v=CWNV1vxsogA",
+          "embedUrl": "https://www.youtube.com/embed/CWNV1vxsogA",
+          "uploadDate": "2026-02-06T00:00:00+00:00",
+          "about": { "@id": "https://solobusinessadvisor.com/#inbound-system" }
+        }
+      ]
+    }
+
+  ]
+}
